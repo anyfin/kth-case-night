@@ -1,0 +1,1184 @@
+id,customer,bank,account,account_name,account_type,date,amount_sek,text
+v0001,c40,Nordea,c40-main,Personkonto,checking,2026-05-01,-455.00,Swish betalning OSCAR L mat
+v0002,c40,Nordea,c40-main,Personkonto,checking,2026-05-05,-65.79,Kortköp 260504 APOTEKET AB NORDSTAN
+v0003,c40,Nordea,c40-hush,Vardagskonto,checking,2026-05-06,-468.63,Kortköp 260504 WILLYS GBG HISINGEN
+v0004,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-05-06,-2398.28,ELGIGANTEN GBG
+v0005,c40,Nordea,c40-hush,Vardagskonto,checking,2026-05-07,-123.25,Kortköp 260506 TEMPO LINNE
+v0006,c40,Nordea,c40-main,Personkonto,checking,2026-05-07,-770.62,Kortköp 260504 CLAS OHLSON 2376
+v0007,c40,Nordea,c40-main,Personkonto,checking,2026-05-07,-521.00,Autogiro TELENOR SVERIGE
+v0008,c40,Nordea,c40-main,Personkonto,checking,2026-05-11,-500.00,ATM BANKOMAT GBG
+v0009,c40,Nordea,c40-main,Personkonto,checking,2026-05-12,2200.00,Överföring Spar
+v0010,c40,Nordea,c40-spar,Spar,savings,2026-05-12,-2200.00,Överföring Personkonto
+v0011,c40,Nordea,c40-main,Personkonto,checking,2026-05-13,-592.77,Betalning BG ELLEVIO AB
+v0012,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-05-14,-73.65,MCDONALDS GBG LINNE
+v0013,c40,Nordea,c40-main,Personkonto,checking,2026-05-14,-205.27,Kortköp 260513 SUSHI YAMA GBG
+v0014,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-05-15,-393.95,KLARNA*ELLOS
+v0015,c40,Nordea,c40-main,Personkonto,checking,2026-05-15,-600.29,Kortköp 260513 TAXI KURIR
+v0016,c40,Nordea,c40-main,Personkonto,checking,2026-05-15,-109.00,Kortköp 260512 HBO MAX
+v0017,c40,Nordea,c40-main,Personkonto,checking,2026-05-17,-109.00,Kortköp 260516 DISNEY PLUS
+v0018,c40,Nordea,c40-hush,Vardagskonto,checking,2026-05-21,-243.64,Kortköp 260519 WILLYS GBG HISINGEN
+v0019,c40,Nordea,c40-hush,Vardagskonto,checking,2026-05-21,-136.22,Kortköp 260520 COOP KONSUM MAJORNA
+v0020,c40,Nordea,c40-hush,Vardagskonto,checking,2026-05-22,-445.24,Kortköp 260520 COOP KONSUM MAJORNA
+v0021,c40,Nordea,c40-hush,Vardagskonto,checking,2026-05-23,-612.31,Kortköp 260521 WILLYS GBG HISINGEN
+v0022,c40,Nordea,c40-hush,Vardagskonto,checking,2026-05-23,-174.44,Kortköp 260520 WILLYS GBG HISINGEN
+v0023,c40,Nordea,c40-main,Personkonto,checking,2026-05-23,-51.07,Kortköp 260520 VOI TECHNOLOGY AB
+v0024,c40,Nordea,c40-main,Personkonto,checking,2026-05-24,-545.00,Swish betalning OSCAR L matkasse
+v0025,c40,Nordea,c40-main,Personkonto,checking,2026-05-24,-450.91,Kortköp 260521 PAYPAL *STEAMGAMES
+v0026,c40,Nordea,c40-hush,Vardagskonto,checking,2026-05-25,-706.86,Kortköp 260524 MATHEM.SE
+v0027,c40,Nordea,c40-hush,Vardagskonto,checking,2026-05-25,11000.00,Överföring Personkonto
+v0028,c40,Nordea,c40-main,Personkonto,checking,2026-05-25,-11000.00,Överföring Vardagskonto
+v0029,c40,Nordea,c40-main,Personkonto,checking,2026-05-25,-4600.00,Överföring Spar
+v0030,c40,Nordea,c40-main,Personkonto,checking,2026-05-25,40700.00,LÖN
+v0031,c40,Nordea,c40-spar,Spar,savings,2026-05-25,4600.00,Överföring Personkonto
+v0032,c40,Nordea,c40-hush,Vardagskonto,checking,2026-05-27,-145.98,Kortköp 260524 TEMPO LINNE
+v0033,c40,Nordea,c40-main,Personkonto,checking,2026-05-27,-11760.00,Betalning BG HEIMSTADEN AB
+v0034,c40,Nordea,c40-main,Personkonto,checking,2026-05-28,-2035.00,Autogiro CSN
+v0035,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-05-29,-81.76,SUMUP *FOODTRUCK SOLROS
+v0036,c40,Nordea,c40-hush,Vardagskonto,checking,2026-05-30,-774.42,Kortköp 260528 ICA MAXI MAJORNA
+v0037,c40,Nordea,c40-main,Personkonto,checking,2026-06-03,245.00,Swish inbetalning LEILA X
+v0038,c40,Nordea,c40-main,Personkonto,checking,2026-06-05,-130.00,Swish betalning OSCAR L
+v0039,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-06-06,-2960.92,ELGIGANTEN GBG
+v0040,c40,Nordea,c40-main,Personkonto,checking,2026-06-07,-368.00,Autogiro TELENOR SVERIGE
+v0041,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-06-08,-3359.48,ELGIGANTEN GBG
+v0042,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-06-08,-343.67,ADLIBRIS
+v0043,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-06-12,-250.66,KJELL & CO GBG
+v0044,c40,Nordea,c40-hush,Vardagskonto,checking,2026-06-13,-483.45,Kortköp 260611 WILLYS GBG HISINGEN
+v0045,c40,Nordea,c40-main,Personkonto,checking,2026-06-14,-109.00,Kortköp 260612 HBO MAX
+v0046,c40,Nordea,c40-hush,Vardagskonto,checking,2026-06-15,-840.06,Kortköp 260614 ICA MAXI MAJORNA
+v0047,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-06-16,-257.20,WOLT
+v0048,c40,Nordea,c40-hush,Vardagskonto,checking,2026-06-17,-227.53,Kortköp 260615 TEMPO LINNE
+v0049,c40,Nordea,c40-main,Personkonto,checking,2026-06-17,-541.83,Betalning BG ELLEVIO AB
+v0050,c40,Nordea,c40-main,Personkonto,checking,2026-06-17,-109.00,Kortköp 260616 DISNEY PLUS
+v0051,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-06-18,-238.77,KRONANS APOTEK MAJORNA
+v0052,c40,Nordea,c40-main,Personkonto,checking,2026-06-20,-2947.64,Betalning BG NORDEA KREDITKORT
+v0053,c40,Nordea,c40-hush,Vardagskonto,checking,2026-06-23,-850.17,Kortköp 260621 TEMPO LINNE
+v0054,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-06-24,2947.64,INBETALNING TACK
+v0055,c40,Nordea,c40-hush,Vardagskonto,checking,2026-06-25,-828.26,Kortköp 260624 TEMPO LINNE
+v0056,c40,Nordea,c40-hush,Vardagskonto,checking,2026-06-25,4000.00,Överföring Personkonto
+v0057,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-06-25,-337.85,WOLT
+v0058,c40,Nordea,c40-main,Personkonto,checking,2026-06-25,-4000.00,Överföring Vardagskonto
+v0059,c40,Nordea,c40-main,Personkonto,checking,2026-06-25,-1900.00,Överföring Spar
+v0060,c40,Nordea,c40-main,Personkonto,checking,2026-06-25,40100.00,LÖN
+v0061,c40,Nordea,c40-spar,Spar,savings,2026-06-25,1900.00,Överföring Personkonto
+v0062,c40,Nordea,c40-hush,Vardagskonto,checking,2026-06-27,-531.24,Kortköp 260624 TEMPO LINNE
+v0063,c40,Nordea,c40-main,Personkonto,checking,2026-06-27,-11760.00,Betalning BG HEIMSTADEN AB
+v0064,c40,Nordea,c40-hush,Vardagskonto,checking,2026-06-28,-101.77,Kortköp 260625 COOP KONSUM MAJORNA
+v0065,c40,Nordea,c40-main,Personkonto,checking,2026-06-28,-1635.00,Autogiro CSN
+v0066,c40,Nordea,c40-hush,Vardagskonto,checking,2026-06-30,-796.80,Kortköp 260628 MATHEM.SE
+v0067,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-06-30,-122.62,WOLT
+v0068,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-06-30,-75.33,SUMUP *FIKA PARKEN
+v0069,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-06-30,-33.97,VOI TECHNOLOGY AB
+v0070,c40,Nordea,c40-hush,Vardagskonto,checking,2026-07-04,-540.33,Kortköp 260701 ICA MAXI MAJORNA
+v0071,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-07-04,-130.14,NINTENDO ESHOP
+v0072,c40,Nordea,c40-main,Personkonto,checking,2026-07-05,-418.00,Autogiro TELENOR SVERIGE
+v0073,c40,Nordea,c40-hush,Vardagskonto,checking,2026-07-06,-622.54,Kortköp 260703 COOP KONSUM MAJORNA
+v0074,c40,Nordea,c40-hush,Vardagskonto,checking,2026-07-06,-321.98,Kortköp 260703 ICA MAXI MAJORNA
+v0075,c40,Nordea,c40-hush,Vardagskonto,checking,2026-07-06,-255.26,Kortköp 260704 TEMPO LINNE
+v0076,c40,Nordea,c40-main,Personkonto,checking,2026-07-06,-400.00,Betalning BG VASTRA GOTALANDSREGIONEN PATIENTAVG
+v0077,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-07-11,-104.87,JOE & THE JUICE GBG
+v0078,c40,Nordea,c40-hush,Vardagskonto,checking,2026-07-13,-700.67,Kortköp 260710 MATHEM.SE
+v0079,c40,Nordea,c40-main,Personkonto,checking,2026-07-13,-109.00,Kortköp 260712 HBO MAX
+v0080,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-07-15,-52.87,VOI TECHNOLOGY AB
+v0081,c40,Nordea,c40-main,Personkonto,checking,2026-07-15,135.00,Swish inbetalning LUCAS A pizza
+v0082,c40,Nordea,c40-hush,Vardagskonto,checking,2026-07-16,-207.91,Kortköp 260713 ICA MAXI MAJORNA
+v0083,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-07-17,-125.00,SUMUP *FIKA PARKEN
+v0084,c40,Nordea,c40-main,Personkonto,checking,2026-07-17,-1112.82,Betalning BG ELLEVIO AB
+v0085,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-07-18,-83.03,MAX GBG
+v0086,c40,Nordea,c40-main,Personkonto,checking,2026-07-18,-7980.47,Betalning BG NORDEA KREDITKORT
+v0087,c40,Nordea,c40-main,Personkonto,checking,2026-07-19,-109.00,Kortköp 260716 DISNEY PLUS
+v0088,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-07-21,-81.63,MCDONALDS GBG HISINGEN
+v0089,c40,Nordea,c40-main,Personkonto,checking,2026-07-21,-500.00,Uttag Bankomat GBG
+v0090,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-07-22,-782.76,ELGIGANTEN GBG
+v0091,c40,Nordea,c40-main,Personkonto,checking,2026-07-23,-705.00,Swish betalning OSCAR L
+v0092,c40,Nordea,c40-hush,Vardagskonto,checking,2026-07-24,4000.00,Överföring Personkonto
+v0093,c40,Nordea,c40-main,Personkonto,checking,2026-07-24,-5000.00,Överföring Spar
+v0094,c40,Nordea,c40-main,Personkonto,checking,2026-07-24,-4000.00,Överföring Vardagskonto
+v0095,c40,Nordea,c40-main,Personkonto,checking,2026-07-24,40100.00,LÖN
+v0096,c40,Nordea,c40-spar,Spar,savings,2026-07-24,5000.00,Överföring Personkonto
+v0097,c40,Nordea,c40-hush,Vardagskonto,checking,2026-07-25,-455.28,Kortköp 260724 MATHEM.SE
+v0098,c40,Nordea,c40-hush,Vardagskonto,checking,2026-07-26,-510.54,Kortköp 260724 ICA MAXI MAJORNA
+v0099,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-07-27,7980.47,INBETALNING
+v0100,c40,Nordea,c40-main,Personkonto,checking,2026-07-27,-11760.00,Betalning BG HEIMSTADEN AB
+v0101,c40,Nordea,c40-main,Personkonto,checking,2026-07-28,-1099.00,Autogiro CSN
+v0102,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-07-31,-86.12,SUMUP *FIKA PARKEN
+v0103,c40,Nordea,c40-main,Personkonto,checking,2026-07-31,165.00,Swish inbetalning MAJA V lunch
+v0104,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-08-01,-2072.35,ELGIGANTEN GBG
+v0105,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-08-01,-150.48,MAX GBG
+v0106,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-08-01,-69.79,MCDONALDS GBG MAJORNA
+v0107,c40,Nordea,c40-hush,Vardagskonto,checking,2026-08-02,-61.86,Kortköp 260731 TEMPO LINNE
+v0108,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-08-03,-119.84,MAX GBG
+v0109,c40,Nordea,c40-main,Personkonto,checking,2026-08-05,-472.00,Autogiro TELENOR SVERIGE
+v0110,c40,Nordea,c40-hush,Vardagskonto,checking,2026-08-06,-513.38,Kortköp 260803 MATHEM.SE
+v0111,c40,Nordea,c40-hush,Vardagskonto,checking,2026-08-09,-668.14,Kortköp 260808 WILLYS GBG HISINGEN
+v0112,c40,Nordea,c40-hush,Vardagskonto,checking,2026-08-09,-294.24,Kortköp 260807 WILLYS GBG HISINGEN
+v0113,c40,Nordea,c40-hush,Vardagskonto,checking,2026-08-10,-556.29,Kortköp 260809 COOP KONSUM MAJORNA
+v0114,c40,Nordea,c40-hush,Vardagskonto,checking,2026-08-10,-519.81,Kortköp 260808 WILLYS GBG HISINGEN
+v0115,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-08-11,-609.63,CLAS OHLSON 1371
+v0116,c40,Nordea,c40-main,Personkonto,checking,2026-08-11,-1116.07,Betalning BG ELLEVIO AB
+v0117,c40,Nordea,c40-hush,Vardagskonto,checking,2026-08-12,-606.11,Kortköp 260809 MATHEM.SE
+v0118,c40,Nordea,c40-main,Personkonto,checking,2026-08-12,-134.13,Kortköp 260811 SUMUP *FOODTRUCK SOLROS
+v0119,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-08-13,-134.31,SUSHI YAMA GBG
+v0120,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-08-13,-57.91,VOI TECHNOLOGY AB
+v0121,c40,Nordea,c40-main,Personkonto,checking,2026-08-13,-123.17,Kortköp 260811 MAX GBG
+v0122,c40,Nordea,c40-main,Personkonto,checking,2026-08-13,-109.00,Kortköp 260812 HBO MAX
+v0123,c40,Nordea,c40-main,Personkonto,checking,2026-08-13,610.00,Swish inbetalning LEILA X
+v0124,c40,Nordea,c40-hush,Vardagskonto,checking,2026-08-15,-434.22,Kortköp 260814 ICA MAXI MAJORNA
+v0125,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-08-15,-135.86,SUSHI YAMA GBG
+v0126,c40,Nordea,c40-main,Personkonto,checking,2026-08-15,-337.67,Kortköp 260813 WOLT
+v0127,c40,Nordea,c40-main,Personkonto,checking,2026-08-15,-142.36,Kortköp 260813 MCDONALDS GBG FROLUNDA
+v0128,c40,Nordea,c40-hush,Vardagskonto,checking,2026-08-16,-182.42,Kortköp 260814 WILLYS GBG HISINGEN
+v0129,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-08-18,-18.64,VOI TECHNOLOGY AB
+v0130,c40,Nordea,c40-main,Personkonto,checking,2026-08-19,-165.00,Swish betalning LEILA X
+v0131,c40,Nordea,c40-main,Personkonto,checking,2026-08-19,-109.00,Kortköp 260816 DISNEY PLUS
+v0132,c40,Nordea,c40-hush,Vardagskonto,checking,2026-08-22,-507.56,Kortköp 260820 ICA MAXI MAJORNA
+v0133,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-08-22,-228.87,WOLT
+v0134,c40,Nordea,c40-main,Personkonto,checking,2026-08-22,-1446.42,Betalning BG NORDEA KREDITKORT
+v0135,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-08-23,-171.18,MAX GBG
+v0136,c40,Nordea,c40-hush,Vardagskonto,checking,2026-08-25,5500.00,Överföring Personkonto
+v0137,c40,Nordea,c40-main,Personkonto,checking,2026-08-25,-5500.00,Överföring Vardagskonto
+v0138,c40,Nordea,c40-main,Personkonto,checking,2026-08-25,-500.00,Överföring Spar
+v0139,c40,Nordea,c40-main,Personkonto,checking,2026-08-25,40100.00,LÖN
+v0140,c40,Nordea,c40-spar,Spar,savings,2026-08-25,500.00,Överföring Personkonto
+v0141,c40,Nordea,c40-hush,Vardagskonto,checking,2026-08-26,-659.36,Kortköp 260823 COOP KONSUM MAJORNA
+v0142,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-08-26,-1612.48,BYGGMAX GBG
+v0143,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-08-26,1446.42,INBETALNING TACK
+v0144,c40,Nordea,c40-main,Personkonto,checking,2026-08-27,-11760.00,Betalning BG HEIMSTADEN AB
+v0145,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-08-28,-320.86,CLAS OHLSON 3225
+v0146,c40,Nordea,c40-main,Personkonto,checking,2026-08-28,-1983.00,Autogiro CSN
+v0147,c40,Nordea,c40-hush,Vardagskonto,checking,2026-08-29,-407.36,Kortköp 260826 TEMPO LINNE
+v0148,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-08-29,-204.70,WOLT
+v0149,c40,Nordea,c40-main,Personkonto,checking,2026-08-29,-130.40,Kortköp 260826 MAX GBG
+v0150,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-08-30,-130.28,PLAYSTATION NETWORK
+v0151,c40,Nordea,c40-hush,Vardagskonto,checking,2026-09-01,-592.58,Kortköp 260829 WILLYS GBG HISINGEN
+v0152,c40,Nordea,c40-main,Personkonto,checking,2026-09-03,-404.00,Autogiro TELENOR SVERIGE
+v0153,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-09-05,-158.44,MCDONALDS GBG LINNE
+v0154,c40,Nordea,c40-main,Personkonto,checking,2026-09-09,-680.00,Swish betalning OSCAR L
+v0155,c40,Nordea,c40-main,Personkonto,checking,2026-09-10,-226.30,Kortköp 260909 BYGGMAX GBG
+v0156,c40,Nordea,c40-hush,Vardagskonto,checking,2026-09-12,-253.99,Kortköp 260911 ICA MAXI MAJORNA
+v0157,c40,Nordea,c40-main,Personkonto,checking,2026-09-12,-568.16,Betalning BG ELLEVIO AB
+v0158,c40,Nordea,c40-main,Personkonto,checking,2026-09-12,-34.28,Kortköp 260909 VOI TECHNOLOGY AB
+v0159,c40,Nordea,c40-main,Personkonto,checking,2026-09-13,-109.00,Kortköp 260912 HBO MAX
+v0160,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-09-16,-180.52,SUSHI YAMA GBG
+v0161,c40,Nordea,c40-main,Personkonto,checking,2026-09-19,-109.00,Kortköp 260916 DISNEY PLUS
+v0162,c40,Nordea,c40-main,Personkonto,checking,2026-09-19,226.30,Kortköp 260918 BYGGMAX GBG
+v0163,c40,Nordea,c40-hush,Vardagskonto,checking,2026-09-20,-537.22,Kortköp 260918 TEMPO LINNE
+v0164,c40,Nordea,c40-main,Personkonto,checking,2026-09-20,790.00,Swish inbetalning LEILA X
+v0165,c40,Nordea,c40-hush,Vardagskonto,checking,2026-09-21,-735.14,Kortköp 260918 COOP KONSUM MAJORNA
+v0166,c40,Nordea,c40-main,Personkonto,checking,2026-09-22,-56.89,Kortköp 260919 PAYPAL *EPICGAMES
+v0167,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-09-23,-147.96,SUMUP *FOODTRUCK SOLROS
+v0168,c40,Nordea,c40-main,Personkonto,checking,2026-09-23,-6037.18,Betalning BG NORDEA KREDITKORT
+v0169,c40,Nordea,c40-hush,Vardagskonto,checking,2026-09-25,10000.00,Överföring Personkonto
+v0170,c40,Nordea,c40-main,Personkonto,checking,2026-09-25,-10000.00,Överföring Vardagskonto
+v0171,c40,Nordea,c40-main,Personkonto,checking,2026-09-25,-2900.00,Överföring Spar
+v0172,c40,Nordea,c40-main,Personkonto,checking,2026-09-25,42400.00,LÖN
+v0173,c40,Nordea,c40-spar,Spar,savings,2026-09-25,2900.00,Överföring Personkonto
+v0174,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-09-26,6037.18,INBETALNING
+v0175,c40,Nordea,c40-hush,Vardagskonto,checking,2026-09-27,-521.48,Kortköp 260924 MATHEM.SE
+v0176,c40,Nordea,c40-main,Personkonto,checking,2026-09-27,-11760.00,Betalning BG HEIMSTADEN AB
+v0177,c40,Nordea,c40-hush,Vardagskonto,checking,2026-09-28,-193.17,Kortköp 260926 TEMPO LINNE
+v0178,c40,Nordea,c40-main,Personkonto,checking,2026-09-28,-1126.00,Autogiro CSN
+v0179,c40,Nordea,c40-main,Personkonto,checking,2026-09-28,-54.20,Kortköp 260925 TIER MOBILITY
+v0180,c40,Nordea,c40-main,Personkonto,checking,2026-09-28,285.00,Swish inbetalning LEILA X el
+v0181,c40,Nordea,c40-hush,Vardagskonto,checking,2026-09-29,-227.98,Kortköp 260926 ICA MAXI MAJORNA
+v0182,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-09-29,-65.51,JOE & THE JUICE GBG
+v0183,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-09-30,-1025.04,BOOZT.COM
+v0184,c40,Nordea,c40-main,Personkonto,checking,2026-10-01,420.00,Swish inbetalning OSCAR L
+v0185,c40,Nordea,c40-main,Personkonto,checking,2026-10-04,-489.00,Autogiro TELENOR SVERIGE
+v0186,c40,Nordea,c40-hush,Vardagskonto,checking,2026-10-07,-459.62,Kortköp 261005 WILLYS GBG HISINGEN
+v0187,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-10-09,-165.45,SUMUP *FIKA PARKEN
+v0188,c40,Nordea,c40-main,Personkonto,checking,2026-10-09,-172.06,Kortköp 261006 MAX GBG
+v0189,c40,Nordea,c40-main,Personkonto,checking,2026-10-12,-90.01,Kortköp 261009 MCDONALDS GBG LINNE
+v0190,c40,Nordea,c40-main,Personkonto,checking,2026-10-12,-15.19,Kortköp 261011 TIER MOBILITY
+v0191,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-10-14,-138.24,MAX GBG
+v0192,c40,Nordea,c40-main,Personkonto,checking,2026-10-14,-514.53,Betalning BG ELLEVIO AB
+v0193,c40,Nordea,c40-main,Personkonto,checking,2026-10-14,-109.00,Kortköp 261012 HBO MAX
+v0194,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-10-15,-360.18,ADLIBRIS
+v0195,c40,Nordea,c40-main,Personkonto,checking,2026-10-17,-109.00,Kortköp 261016 DISNEY PLUS
+v0196,c40,Nordea,c40-hush,Vardagskonto,checking,2026-10-18,-395.27,Kortköp 261015 COOP KONSUM MAJORNA
+v0197,c40,Nordea,c40-main,Personkonto,checking,2026-10-20,325.00,Swish inbetalning LEILA X
+v0198,c40,Nordea,c40-hush,Vardagskonto,checking,2026-10-21,-158.33,Kortköp 261020 MATHEM.SE
+v0199,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-10-21,-437.63,APOTEKET AB MOLNDAL
+v0200,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-10-22,-312.64,CLAS OHLSON 1420
+v0201,c40,Nordea,c40-hush,Vardagskonto,checking,2026-10-23,8000.00,Överföring Personkonto
+v0202,c40,Nordea,c40-main,Personkonto,checking,2026-10-23,-8000.00,Överföring Vardagskonto
+v0203,c40,Nordea,c40-main,Personkonto,checking,2026-10-23,-1577.47,Betalning BG NORDEA KREDITKORT
+v0204,c40,Nordea,c40-main,Personkonto,checking,2026-10-23,-1100.00,Överföring Spar
+v0205,c40,Nordea,c40-main,Personkonto,checking,2026-10-23,44350.00,LÖN
+v0206,c40,Nordea,c40-spar,Spar,savings,2026-10-23,1100.00,Överföring Personkonto
+v0207,c40,Nordea,c40-hush,Vardagskonto,checking,2026-10-25,-368.81,Kortköp 261023 TEMPO LINNE
+v0208,c40,Nordea,c40-kort,Kreditkort,credit_card,2026-10-25,1577.47,INBETALNING TACK
+v0209,c40,Nordea,c40-main,Personkonto,checking,2026-10-25,-30.60,Kortköp 261022 TIER MOBILITY
+v0210,c40,Nordea,c40-hush,Vardagskonto,checking,2026-10-27,-513.79,Kortköp 261024 TEMPO LINNE
+v0211,c40,Nordea,c40-main,Personkonto,checking,2026-10-27,-11760.00,Betalning BG HEIMSTADEN AB
+v0212,c40,Nordea,c40-main,Personkonto,checking,2026-10-28,-1455.00,Autogiro CSN
+v0213,c40,Nordea,c40-main,Personkonto,checking,2026-10-29,-500.00,BANKOMAT HISINGEN
+v0214,c40,Nordea,c40-main,Personkonto,checking,2026-10-30,-171.20,Kortköp 261029 MCDONALDS GBG LINNE
+v0215,c40,Nordea,c40-hush,Vardagskonto,checking,2026-10-31,-243.31,Kortköp 261030 TEMPO LINNE
+v0216,c40,Nordea,c40-spar,Spar,savings,2026-10-31,216.76,Ränta
+v0217,c41,Swedbank,c41-kort,Visa,credit_card,2026-05-02,-157.78,HEMKOP RYD
+v0218,c41,Swedbank,c41-main,Privatkonto,checking,2026-05-02,-255.00,SWISH TILL EMMA B BILJETTER
+v0219,c41,Swedbank,c41-main,Privatkonto,checking,2026-05-03,-216.00,AUTOGIRO COMVIQ
+v0220,c41,Swedbank,c41-main,Privatkonto,checking,2026-05-04,-884.61,KORTKÖP 260502 HEMKOP RYD
+v0221,c41,Swedbank,c41-main,Privatkonto,checking,2026-05-04,-750.00,KORTKÖP 260503 OSTGOTATRAFIKEN TORNBY
+v0222,c41,Swedbank,c41-main,Privatkonto,checking,2026-05-05,-448.00,AUTOGIRO TELENOR SVERIGE
+v0223,c41,Swedbank,c41-kort,Visa,credit_card,2026-05-07,-123.74,SUBWAY LKPG
+v0224,c41,Swedbank,c41-main,Privatkonto,checking,2026-05-08,-5472.57,KORTKÖP 260507 HOTELS.COM
+v0225,c41,Swedbank,c41-kort,Visa,credit_card,2026-05-09,-630.83,ICA SUPERMARKET INNERSTADEN
+v0226,c41,Swedbank,c41-main,Privatkonto,checking,2026-05-09,-775.00,SWISH TILL EMMA B
+v0227,c41,Swedbank,c41-main,Privatkonto,checking,2026-05-11,-506.81,KORTKÖP 260508 APOTEK HJARTAT INNERSTADEN
+v0228,c41,Swedbank,c41-kort,Visa,credit_card,2026-05-12,-405.38,ICA KVANTUM TORNBY
+v0229,c41,Swedbank,c41-main,Privatkonto,checking,2026-05-12,-133.86,KORTKÖP 260509 HEMKOP RYD
+v0230,c41,Swedbank,c41-kort,Visa,credit_card,2026-05-13,-554.35,HEMKOP RYD
+v0231,c41,Swedbank,c41-kort,Visa,credit_card,2026-05-13,-113.12,SUBWAY LKPG
+v0232,c41,Swedbank,c41-main,Privatkonto,checking,2026-05-13,-490.00,SWISH TILL MARIA N PIZZA
+v0233,c41,Swedbank,c41-main,Privatkonto,checking,2026-05-13,-420.06,KORTKÖP 260510 ICA KVANTUM TORNBY
+v0234,c41,Swedbank,c41-kort,Visa,credit_card,2026-05-15,-476.40,HEMKOP RYD
+v0235,c41,Swedbank,c41-kort,Visa,credit_card,2026-05-18,-561.69,ICA SUPERMARKET INNERSTADEN
+v0236,c41,Swedbank,c41-main,Privatkonto,checking,2026-05-18,-229.00,KORTKÖP 260516 STORYTEL AB
+v0237,c41,Swedbank,c41-main,Privatkonto,checking,2026-05-20,-149.00,KORTKÖP 260518 VIAPLAY GROUP
+v0238,c41,Swedbank,c41-kort,Visa,credit_card,2026-05-21,-541.34,KICKS LKPG
+v0239,c41,Swedbank,c41-kort,Visa,credit_card,2026-05-21,-306.60,ICA SUPERMARKET INNERSTADEN
+v0240,c41,Swedbank,c41-kort,Visa,credit_card,2026-05-23,-326.68,RESTAURANG KORNET
+v0241,c41,Swedbank,c41-kort,Visa,credit_card,2026-05-25,-877.61,ICA KVANTUM TORNBY
+v0242,c41,Swedbank,c41-kort,Visa,credit_card,2026-05-25,-865.42,ICA SUPERMARKET INNERSTADEN
+v0243,c41,Swedbank,c41-main,Privatkonto,checking,2026-05-25,-2000.00,ÖVERFÖRING SPAR
+v0244,c41,Swedbank,c41-main,Privatkonto,checking,2026-05-25,-95.41,KORTKÖP 260524 PAYPAL *EPICGAMES
+v0245,c41,Swedbank,c41-main,Privatkonto,checking,2026-05-25,33550.00,LÖN
+v0246,c41,Swedbank,c41-spar,Spar,savings,2026-05-25,2000.00,ÖVERFÖRING PRIVATKONTO
+v0247,c41,Swedbank,c41-kort,Visa,credit_card,2026-05-26,-5209.95,LUFTHANSA
+v0248,c41,Swedbank,c41-kort,Visa,credit_card,2026-05-26,-16.72,TIER MOBILITY
+v0249,c41,Swedbank,c41-kort,Visa,credit_card,2026-05-27,-637.90,ICA KVANTUM TORNBY
+v0250,c41,Swedbank,c41-main,Privatkonto,checking,2026-05-27,-6380.00,BG BRF HAMNFYREN
+v0251,c41,Swedbank,c41-main,Privatkonto,checking,2026-05-28,-13940.00,AUTOGIRO SEB BOLAN
+v0252,c41,Swedbank,c41-main,Privatkonto,checking,2026-05-28,-2440.00,BG RESURS BANK AB
+v0253,c41,Swedbank,c41-main,Privatkonto,checking,2026-05-28,-2006.00,AUTOGIRO CSN
+v0254,c41,Swedbank,c41-main,Privatkonto,checking,2026-06-03,-337.00,AUTOGIRO TELENOR SVERIGE
+v0255,c41,Swedbank,c41-main,Privatkonto,checking,2026-06-04,-750.00,KORTKÖP 260602 OSTGOTATRAFIKEN INNERSTADEN
+v0256,c41,Swedbank,c41-main,Privatkonto,checking,2026-06-04,-200.00,BG REGION OSTERGOTLAND PATIENTAVG
+v0257,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-06,-389.67,KICKS LKPG
+v0258,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-06,-275.22,ICA SUPERMARKET INNERSTADEN
+v0259,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-07,-239.49,WOLT
+v0260,c41,Swedbank,c41-main,Privatkonto,checking,2026-06-07,-243.00,AUTOGIRO COMVIQ
+v0261,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-08,-304.85,ICA KVANTUM TORNBY
+v0262,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-09,-689.46,TESCO EXPRESS LONDON GBP 51.80
+v0263,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-09,-418.87,HEMKOP RYD
+v0264,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-09,-304.43,DISHOOM LONDON GBP 22.87
+v0265,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-09,-124.12,WOLT
+v0266,c41,Swedbank,c41-main,Privatkonto,checking,2026-06-09,-122.58,KORTKÖP 260608 HEMKOP RYD
+v0267,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-10,-3610.14,PREMIER INN LONDON GBP 271.23
+v0268,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-10,-695.07,SAINSBURYS LONDON GBP 52.22
+v0269,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-10,-69.30,JOE & THE JUICE LKPG
+v0270,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-11,-569.36,KAPPAHL LKPG
+v0271,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-13,-219.67,WOLT
+v0272,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-13,-76.91,JOE & THE JUICE LKPG
+v0273,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-14,-259.28,ICA SUPERMARKET INNERSTADEN
+v0274,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-17,-559.83,TAXI KURIR
+v0275,c41,Swedbank,c41-main,Privatkonto,checking,2026-06-17,-338.99,KORTKÖP 260616 RESTAURANG KORNET
+v0276,c41,Swedbank,c41-main,Privatkonto,checking,2026-06-18,-229.00,KORTKÖP 260616 STORYTEL AB
+v0277,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-19,-672.46,ICA SUPERMARKET INNERSTADEN
+v0278,c41,Swedbank,c41-main,Privatkonto,checking,2026-06-19,-875.00,SWISH TILL NILS B
+v0279,c41,Swedbank,c41-main,Privatkonto,checking,2026-06-19,-149.00,KORTKÖP 260618 VIAPLAY GROUP
+v0280,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-22,-483.75,HEMKOP RYD
+v0281,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-23,-293.27,ICA KVANTUM TORNBY
+v0282,c41,Swedbank,c41-main,Privatkonto,checking,2026-06-23,-11805.51,BG SWEDBANK KORT
+v0283,c41,Swedbank,c41-main,Privatkonto,checking,2026-06-23,-713.67,BG WALLEY AB
+v0284,c41,Swedbank,c41-main,Privatkonto,checking,2026-06-23,-261.93,KORTKÖP 260622 WOLT
+v0285,c41,Swedbank,c41-main,Privatkonto,checking,2026-06-24,-80.08,KORTKÖP 260623 JOE & THE JUICE LKPG
+v0286,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-25,-222.24,HEMKOP RYD
+v0287,c41,Swedbank,c41-main,Privatkonto,checking,2026-06-25,2700.00,ÖVERFÖRING SPAR
+v0288,c41,Swedbank,c41-main,Privatkonto,checking,2026-06-25,32850.00,REGION OSTERGOTLAND
+v0289,c41,Swedbank,c41-spar,Spar,savings,2026-06-25,-2700.00,ÖVERFÖRING PRIVATKONTO
+v0290,c41,Swedbank,c41-main,Privatkonto,checking,2026-06-26,530.00,SWISH FRÅN NILS B BILJETTER
+v0291,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-27,11805.51,INBETALNING
+v0292,c41,Swedbank,c41-main,Privatkonto,checking,2026-06-27,-6380.00,BG BRF HAMNFYREN
+v0293,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-28,-432.79,ADLIBRIS
+v0294,c41,Swedbank,c41-main,Privatkonto,checking,2026-06-28,-13940.00,AUTOGIRO SEB BOLAN
+v0295,c41,Swedbank,c41-main,Privatkonto,checking,2026-06-28,-2029.00,AUTOGIRO CSN
+v0296,c41,Swedbank,c41-main,Privatkonto,checking,2026-06-28,-1970.00,AUTOGIRO RESURS BANK AB
+v0297,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-29,-432.00,KRONANS APOTEK LAMBOHOV
+v0298,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-29,-114.81,ICA KVANTUM TORNBY
+v0299,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-30,-263.27,ICA KVANTUM TORNBY
+v0300,c41,Swedbank,c41-kort,Visa,credit_card,2026-06-30,-68.38,ESPRESSO HOUSE 3377
+v0301,c41,Swedbank,c41-kort,Visa,credit_card,2026-07-02,-556.05,CDON.SE
+v0302,c41,Swedbank,c41-kort,Visa,credit_card,2026-07-02,-552.48,ICA KVANTUM TORNBY
+v0303,c41,Swedbank,c41-main,Privatkonto,checking,2026-07-03,-233.00,AUTOGIRO COMVIQ
+v0304,c41,Swedbank,c41-main,Privatkonto,checking,2026-07-05,-750.00,KORTKÖP 260702 OSTGOTATRAFIKEN TORNBY
+v0305,c41,Swedbank,c41-kort,Visa,credit_card,2026-07-06,-509.28,ICA SUPERMARKET INNERSTADEN
+v0306,c41,Swedbank,c41-kort,Visa,credit_card,2026-07-06,-196.33,WOLT
+v0307,c41,Swedbank,c41-main,Privatkonto,checking,2026-07-06,-103.00,AUTOGIRO TELENOR SVERIGE
+v0308,c41,Swedbank,c41-kort,Visa,credit_card,2026-07-07,-839.71,CDON.SE
+v0309,c41,Swedbank,c41-main,Privatkonto,checking,2026-07-07,-575.00,SWISH TILL MAJA J MATKASSE
+v0310,c41,Swedbank,c41-kort,Visa,credit_card,2026-07-11,-212.04,RESTAURANG KORNET
+v0311,c41,Swedbank,c41-kort,Visa,credit_card,2026-07-11,-77.48,ESPRESSO HOUSE 1055
+v0312,c41,Swedbank,c41-main,Privatkonto,checking,2026-07-13,-183.15,KORTKÖP 260712 RESTAURANG SKAFFERIET
+v0313,c41,Swedbank,c41-kort,Visa,credit_card,2026-07-14,-88.49,ICA KVANTUM TORNBY
+v0314,c41,Swedbank,c41-kort,Visa,credit_card,2026-07-16,-815.96,ICA SUPERMARKET INNERSTADEN
+v0315,c41,Swedbank,c41-main,Privatkonto,checking,2026-07-17,-336.26,KORTKÖP 260714 RESTAURANG TORGET
+v0316,c41,Swedbank,c41-main,Privatkonto,checking,2026-07-18,-229.00,KORTKÖP 260716 STORYTEL AB
+v0317,c41,Swedbank,c41-main,Privatkonto,checking,2026-07-20,-149.00,KORTKÖP 260718 VIAPLAY GROUP
+v0318,c41,Swedbank,c41-kort,Visa,credit_card,2026-07-21,-145.46,ICA SUPERMARKET INNERSTADEN
+v0319,c41,Swedbank,c41-main,Privatkonto,checking,2026-07-21,-11788.64,BG SWEDBANK KORT
+v0320,c41,Swedbank,c41-main,Privatkonto,checking,2026-07-22,-915.65,KORTKÖP 260720 CDON.SE
+v0321,c41,Swedbank,c41-main,Privatkonto,checking,2026-07-24,-2500.00,ÖVERFÖRING SPAR
+v0322,c41,Swedbank,c41-main,Privatkonto,checking,2026-07-24,31800.00,LÖN REGION OSTERGOTLAND
+v0323,c41,Swedbank,c41-spar,Spar,savings,2026-07-24,2500.00,ÖVERFÖRING PRIVATKONTO
+v0324,c41,Swedbank,c41-kort,Visa,credit_card,2026-07-25,11788.64,INBETALNING TACK
+v0325,c41,Swedbank,c41-main,Privatkonto,checking,2026-07-25,-1542.35,BG WALLEY AB
+v0326,c41,Swedbank,c41-kort,Visa,credit_card,2026-07-27,-640.43,ICA KVANTUM TORNBY
+v0327,c41,Swedbank,c41-kort,Visa,credit_card,2026-07-27,-38.58,TIER MOBILITY
+v0328,c41,Swedbank,c41-main,Privatkonto,checking,2026-07-27,-6380.00,BG BRF HAMNFYREN
+v0329,c41,Swedbank,c41-main,Privatkonto,checking,2026-07-28,-13940.00,AUTOGIRO SEB BOLAN
+v0330,c41,Swedbank,c41-main,Privatkonto,checking,2026-07-28,-1490.00,AUTOGIRO RESURS BANK AB
+v0331,c41,Swedbank,c41-main,Privatkonto,checking,2026-07-28,-1462.00,AUTOGIRO CSN
+v0332,c41,Swedbank,c41-kort,Visa,credit_card,2026-07-30,-577.18,ICA KVANTUM TORNBY
+v0333,c41,Swedbank,c41-main,Privatkonto,checking,2026-07-30,-565.00,SWISH TILL MARIA N
+v0334,c41,Swedbank,c41-main,Privatkonto,checking,2026-07-30,-200.00,ATM LAMBOHOV
+v0335,c41,Swedbank,c41-main,Privatkonto,checking,2026-07-30,-169.51,KORTKÖP 260728 PAYPAL *EPICGAMES
+v0336,c41,Swedbank,c41-main,Privatkonto,checking,2026-08-01,550.00,SWISH FRÅN MAJA J
+v0337,c41,Swedbank,c41-main,Privatkonto,checking,2026-08-04,-750.00,KORTKÖP 260803 OSTGOTATRAFIKEN RYD
+v0338,c41,Swedbank,c41-main,Privatkonto,checking,2026-08-04,-494.00,AUTOGIRO TELENOR SVERIGE
+v0339,c41,Swedbank,c41-kort,Visa,credit_card,2026-08-05,-794.71,ICA KVANTUM TORNBY
+v0340,c41,Swedbank,c41-main,Privatkonto,checking,2026-08-05,-511.00,AUTOGIRO COMVIQ
+v0341,c41,Swedbank,c41-main,Privatkonto,checking,2026-08-05,-385.05,KORTKÖP 260804 GOOGLE *GOOGLE PLAY
+v0342,c41,Swedbank,c41-kort,Visa,credit_card,2026-08-08,-232.09,ICA KVANTUM TORNBY
+v0343,c41,Swedbank,c41-kort,Visa,credit_card,2026-08-09,-671.53,ICA SUPERMARKET INNERSTADEN
+v0344,c41,Swedbank,c41-kort,Visa,credit_card,2026-08-09,-647.86,HEMKOP RYD
+v0345,c41,Swedbank,c41-kort,Visa,credit_card,2026-08-10,-289.54,HEMKOP RYD
+v0346,c41,Swedbank,c41-kort,Visa,credit_card,2026-08-12,-721.77,ICA SUPERMARKET INNERSTADEN
+v0347,c41,Swedbank,c41-main,Privatkonto,checking,2026-08-17,-229.00,KORTKÖP 260816 STORYTEL AB
+v0348,c41,Swedbank,c41-main,Privatkonto,checking,2026-08-19,-809.70,KORTKÖP 260816 IKEA LKPG
+v0349,c41,Swedbank,c41-main,Privatkonto,checking,2026-08-19,-340.56,KORTKÖP 260816 HEMKOP RYD
+v0350,c41,Swedbank,c41-main,Privatkonto,checking,2026-08-20,-149.00,KORTKÖP 260818 VIAPLAY GROUP
+v0351,c41,Swedbank,c41-kort,Visa,credit_card,2026-08-22,-536.59,HEMKOP RYD
+v0352,c41,Swedbank,c41-main,Privatkonto,checking,2026-08-22,-5249.47,BG SWEDBANK KORT
+v0353,c41,Swedbank,c41-main,Privatkonto,checking,2026-08-23,-490.07,KORTKÖP 260820 ICA KVANTUM TORNBY
+v0354,c41,Swedbank,c41-kort,Visa,credit_card,2026-08-24,-314.19,ICA KVANTUM TORNBY
+v0355,c41,Swedbank,c41-kort,Visa,credit_card,2026-08-24,-90.90,JOE & THE JUICE LKPG
+v0356,c41,Swedbank,c41-kort,Visa,credit_card,2026-08-24,5249.47,INBETALNING
+v0357,c41,Swedbank,c41-main,Privatkonto,checking,2026-08-24,-514.52,BG WALLEY AB
+v0358,c41,Swedbank,c41-main,Privatkonto,checking,2026-08-24,-168.52,KORTKÖP 260821 RESTAURANG LUNA
+v0359,c41,Swedbank,c41-main,Privatkonto,checking,2026-08-25,-4700.00,ÖVERFÖRING SPAR
+v0360,c41,Swedbank,c41-main,Privatkonto,checking,2026-08-25,31800.00,LÖN
+v0361,c41,Swedbank,c41-spar,Spar,savings,2026-08-25,4700.00,ÖVERFÖRING PRIVATKONTO
+v0362,c41,Swedbank,c41-main,Privatkonto,checking,2026-08-26,-2880.00,BG RESURS BANK AB
+v0363,c41,Swedbank,c41-main,Privatkonto,checking,2026-08-26,-323.19,KORTKÖP 260824 WOLT
+v0364,c41,Swedbank,c41-kort,Visa,credit_card,2026-08-27,-82.91,ICA KVANTUM TORNBY
+v0365,c41,Swedbank,c41-main,Privatkonto,checking,2026-08-27,-6380.00,BG BRF HAMNFYREN
+v0366,c41,Swedbank,c41-kort,Visa,credit_card,2026-08-28,-72.79,JOE & THE JUICE LKPG
+v0367,c41,Swedbank,c41-main,Privatkonto,checking,2026-08-28,-13940.00,AUTOGIRO SEB BOLAN
+v0368,c41,Swedbank,c41-main,Privatkonto,checking,2026-08-28,-1115.00,AUTOGIRO CSN
+v0369,c41,Swedbank,c41-kort,Visa,credit_card,2026-08-29,-441.14,ICA SUPERMARKET INNERSTADEN
+v0370,c41,Swedbank,c41-kort,Visa,credit_card,2026-08-29,-337.00,KLARNA*NELLY
+v0371,c41,Swedbank,c41-main,Privatkonto,checking,2026-08-30,170.00,SWISH FRÅN NILS B
+v0372,c41,Swedbank,c41-main,Privatkonto,checking,2026-08-31,560.00,SWISH FRÅN EMMA B
+v0373,c41,Swedbank,c41-kort,Visa,credit_card,2026-09-01,-603.06,ICA SUPERMARKET INNERSTADEN
+v0374,c41,Swedbank,c41-main,Privatkonto,checking,2026-09-01,-340.97,KORTKÖP 260829 BOLT.EU/O/2605
+v0375,c41,Swedbank,c41-main,Privatkonto,checking,2026-09-04,-339.00,AUTOGIRO COMVIQ
+v0376,c41,Swedbank,c41-main,Privatkonto,checking,2026-09-05,-750.00,KORTKÖP 260903 OSTGOTATRAFIKEN LAMBOHOV
+v0377,c41,Swedbank,c41-main,Privatkonto,checking,2026-09-05,-187.00,AUTOGIRO TELENOR SVERIGE
+v0378,c41,Swedbank,c41-kort,Visa,credit_card,2026-09-11,-687.74,HEMKOP RYD
+v0379,c41,Swedbank,c41-kort,Visa,credit_card,2026-09-11,-188.97,HEMKOP RYD
+v0380,c41,Swedbank,c41-main,Privatkonto,checking,2026-09-12,125.00,SWISH FRÅN MARIA N
+v0381,c41,Swedbank,c41-kort,Visa,credit_card,2026-09-13,-779.04,HEMKOP RYD
+v0382,c41,Swedbank,c41-kort,Visa,credit_card,2026-09-15,-121.44,ZETTLE_*BISTRO SKAFFERIET
+v0383,c41,Swedbank,c41-kort,Visa,credit_card,2026-09-16,-699.97,ICA KVANTUM TORNBY
+v0384,c41,Swedbank,c41-kort,Visa,credit_card,2026-09-16,-425.97,KAPPAHL LKPG
+v0385,c41,Swedbank,c41-kort,Visa,credit_card,2026-09-16,-331.34,HEMKOP RYD
+v0386,c41,Swedbank,c41-kort,Visa,credit_card,2026-09-16,-157.01,HEMKOP RYD
+v0387,c41,Swedbank,c41-main,Privatkonto,checking,2026-09-17,-597.41,KORTKÖP 260916 ICA SUPERMARKET INNERSTADEN
+v0388,c41,Swedbank,c41-main,Privatkonto,checking,2026-09-17,-229.00,KORTKÖP 260916 STORYTEL AB
+v0389,c41,Swedbank,c41-kort,Visa,credit_card,2026-09-18,-189.09,ICA SUPERMARKET INNERSTADEN
+v0390,c41,Swedbank,c41-main,Privatkonto,checking,2026-09-19,655.00,SWISH FRÅN MAJA J
+v0391,c41,Swedbank,c41-kort,Visa,credit_card,2026-09-20,-546.82,HEMKOP RYD
+v0392,c41,Swedbank,c41-kort,Visa,credit_card,2026-09-20,-353.75,ICA KVANTUM TORNBY
+v0393,c41,Swedbank,c41-kort,Visa,credit_card,2026-09-20,-111.16,HEMKOP RYD
+v0394,c41,Swedbank,c41-kort,Visa,credit_card,2026-09-20,-44.89,ESPRESSO HOUSE 2311
+v0395,c41,Swedbank,c41-main,Privatkonto,checking,2026-09-20,-5233.02,BG SWEDBANK KORT
+v0396,c41,Swedbank,c41-main,Privatkonto,checking,2026-09-20,-149.00,KORTKÖP 260918 VIAPLAY GROUP
+v0397,c41,Swedbank,c41-kort,Visa,credit_card,2026-09-21,-111.10,JOE & THE JUICE LKPG
+v0398,c41,Swedbank,c41-kort,Visa,credit_card,2026-09-22,-248.71,KLARNA*NELLY
+v0399,c41,Swedbank,c41-main,Privatkonto,checking,2026-09-22,-777.07,KORTKÖP 260920 ICA KVANTUM TORNBY
+v0400,c41,Swedbank,c41-main,Privatkonto,checking,2026-09-23,-32.42,KORTKÖP 260922 VOI TECHNOLOGY AB
+v0401,c41,Swedbank,c41-kort,Visa,credit_card,2026-09-24,-125.75,SUBWAY LKPG
+v0402,c41,Swedbank,c41-kort,Visa,credit_card,2026-09-25,-480.21,ICA SUPERMARKET INNERSTADEN
+v0403,c41,Swedbank,c41-kort,Visa,credit_card,2026-09-25,-60.69,ZETTLE_*CAFE FIKARUMMET
+v0404,c41,Swedbank,c41-main,Privatkonto,checking,2026-09-25,-4700.00,ÖVERFÖRING SPAR
+v0405,c41,Swedbank,c41-main,Privatkonto,checking,2026-09-25,31800.00,LÖN
+v0406,c41,Swedbank,c41-spar,Spar,savings,2026-09-25,4700.00,ÖVERFÖRING PRIVATKONTO
+v0407,c41,Swedbank,c41-kort,Visa,credit_card,2026-09-26,5233.02,INBETALNING
+v0408,c41,Swedbank,c41-kort,Visa,credit_card,2026-09-27,-112.00,JOE & THE JUICE LKPG
+v0409,c41,Swedbank,c41-main,Privatkonto,checking,2026-09-27,-6380.00,BG BRF HAMNFYREN
+v0410,c41,Swedbank,c41-kort,Visa,credit_card,2026-09-28,-257.09,RESTAURANG SOLROS
+v0411,c41,Swedbank,c41-kort,Visa,credit_card,2026-09-28,-69.87,JOE & THE JUICE LKPG
+v0412,c41,Swedbank,c41-main,Privatkonto,checking,2026-09-28,-13940.00,AUTOGIRO SEB BOLAN
+v0413,c41,Swedbank,c41-main,Privatkonto,checking,2026-09-28,-1612.00,AUTOGIRO CSN
+v0414,c41,Swedbank,c41-main,Privatkonto,checking,2026-09-28,-1320.00,AUTOGIRO RESURS BANK AB
+v0415,c41,Swedbank,c41-kort,Visa,credit_card,2026-10-02,-618.98,HEMKOP RYD
+v0416,c41,Swedbank,c41-kort,Visa,credit_card,2026-10-03,-313.68,HEMKOP RYD
+v0417,c41,Swedbank,c41-main,Privatkonto,checking,2026-10-03,-379.00,AUTOGIRO COMVIQ
+v0418,c41,Swedbank,c41-main,Privatkonto,checking,2026-10-03,300.00,SWISH FRÅN NILS B
+v0419,c41,Swedbank,c41-main,Privatkonto,checking,2026-10-04,-97.20,KORTKÖP 261001 ZETTLE_*CAFE FIKARUMMET
+v0420,c41,Swedbank,c41-main,Privatkonto,checking,2026-10-05,-750.00,KORTKÖP 261003 OSTGOTATRAFIKEN TORNBY
+v0421,c41,Swedbank,c41-kort,Visa,credit_card,2026-10-06,-198.70,RESTAURANG FIKARUMMET
+v0422,c41,Swedbank,c41-kort,Visa,credit_card,2026-10-06,-189.08,KICKS LKPG
+v0423,c41,Swedbank,c41-main,Privatkonto,checking,2026-10-06,-479.00,AUTOGIRO TELENOR SVERIGE
+v0424,c41,Swedbank,c41-kort,Visa,credit_card,2026-10-09,-302.87,ICA KVANTUM TORNBY
+v0425,c41,Swedbank,c41-kort,Visa,credit_card,2026-10-12,-68.02,ZETTLE_*BISTRO SKAFFERIET
+v0426,c41,Swedbank,c41-kort,Visa,credit_card,2026-10-13,-848.69,HEMKOP RYD
+v0427,c41,Swedbank,c41-main,Privatkonto,checking,2026-10-13,180.00,SWISH FRÅN NILS B
+v0428,c41,Swedbank,c41-main,Privatkonto,checking,2026-10-15,-465.00,SWISH TILL NILS B PIZZA
+v0429,c41,Swedbank,c41-kort,Visa,credit_card,2026-10-16,-3220.23,IKEA LKPG
+v0430,c41,Swedbank,c41-kort,Visa,credit_card,2026-10-16,-216.33,ICA SUPERMARKET INNERSTADEN
+v0431,c41,Swedbank,c41-kort,Visa,credit_card,2026-10-17,-228.27,WOLT
+v0432,c41,Swedbank,c41-main,Privatkonto,checking,2026-10-18,-69.67,KORTKÖP 261016 ESPRESSO HOUSE 2170
+v0433,c41,Swedbank,c41-kort,Visa,credit_card,2026-10-19,-106.33,JOE & THE JUICE LKPG
+v0434,c41,Swedbank,c41-main,Privatkonto,checking,2026-10-19,-229.00,KORTKÖP 261016 STORYTEL AB
+v0435,c41,Swedbank,c41-kort,Visa,credit_card,2026-10-20,-190.55,TAXI KURIR
+v0436,c41,Swedbank,c41-main,Privatkonto,checking,2026-10-21,-6705.67,BG SWEDBANK KORT
+v0437,c41,Swedbank,c41-main,Privatkonto,checking,2026-10-21,-149.00,KORTKÖP 261018 VIAPLAY GROUP
+v0438,c41,Swedbank,c41-kort,Visa,credit_card,2026-10-22,-833.29,ICA KVANTUM TORNBY
+v0439,c41,Swedbank,c41-kort,Visa,credit_card,2026-10-23,-983.76,BYGGMAX LKPG
+v0440,c41,Swedbank,c41-kort,Visa,credit_card,2026-10-23,-68.28,ESPRESSO HOUSE 1206
+v0441,c41,Swedbank,c41-kort,Visa,credit_card,2026-10-23,-56.53,ESPRESSO HOUSE 1262
+v0442,c41,Swedbank,c41-main,Privatkonto,checking,2026-10-23,-500.00,ÖVERFÖRING SPAR
+v0443,c41,Swedbank,c41-main,Privatkonto,checking,2026-10-23,31800.00,LÖN
+v0444,c41,Swedbank,c41-spar,Spar,savings,2026-10-23,500.00,ÖVERFÖRING PRIVATKONTO
+v0445,c41,Swedbank,c41-main,Privatkonto,checking,2026-10-24,-858.27,BG WALLEY AB
+v0446,c41,Swedbank,c41-main,Privatkonto,checking,2026-10-25,3000.00,ÖVERFÖRING SPAR
+v0447,c41,Swedbank,c41-spar,Spar,savings,2026-10-25,-3000.00,ÖVERFÖRING PRIVATKONTO
+v0448,c41,Swedbank,c41-kort,Visa,credit_card,2026-10-26,-306.88,WOLT
+v0449,c41,Swedbank,c41-kort,Visa,credit_card,2026-10-26,6705.67,INBETALNING TACK
+v0450,c41,Swedbank,c41-main,Privatkonto,checking,2026-10-26,-98.81,KORTKÖP 261023 ICA SUPERMARKET INNERSTADEN
+v0451,c41,Swedbank,c41-main,Privatkonto,checking,2026-10-27,-6380.00,BG BRF HAMNFYREN
+v0452,c41,Swedbank,c41-main,Privatkonto,checking,2026-10-27,-1080.00,BG RESURS BANK AB
+v0453,c41,Swedbank,c41-main,Privatkonto,checking,2026-10-28,-13940.00,AUTOGIRO SEB BOLAN
+v0454,c41,Swedbank,c41-main,Privatkonto,checking,2026-10-28,-1227.00,AUTOGIRO CSN
+v0455,c41,Swedbank,c41-kort,Visa,credit_card,2026-10-29,-669.98,ICA KVANTUM TORNBY
+v0456,c41,Swedbank,c41-kort,Visa,credit_card,2026-10-29,-333.98,ICA KVANTUM TORNBY
+v0457,c41,Swedbank,c41-main,Privatkonto,checking,2026-10-29,-511.96,KORTKÖP 261026 HEMKOP RYD
+v0458,c41,Swedbank,c41-spar,Spar,savings,2026-10-31,612.03,Ränta
+v0459,c42,SEB,c42-main,Privatkonto,checking,2026-05-01,-449.00,AG NORDIC WELLNESS
+v0460,c42,SEB,c42-main,Privatkonto,checking,2026-05-02,-865.00,VASTTRAFIK NORDSTAN /26-05-01
+v0461,c42,SEB,c42-kort,Kreditkort,credit_card,2026-05-05,-838.15,ICA MAXI FROLUNDA
+v0462,c42,SEB,c42-kort,Kreditkort,credit_card,2026-05-05,-582.90,NELLY.COM
+v0463,c42,SEB,c42-kort,Kreditkort,credit_card,2026-05-05,-249.34,UBER *TRIP HELP.UBER.COM
+v0464,c42,SEB,c42-main,Privatkonto,checking,2026-05-05,-342.00,AG COMVIQ
+v0465,c42,SEB,c42-kort,Kreditkort,credit_card,2026-05-06,-698.49,COOP MAJORNA
+v0466,c42,SEB,c42-kort,Kreditkort,credit_card,2026-05-07,-290.67,COOP MAJORNA
+v0467,c42,SEB,c42-kort,Kreditkort,credit_card,2026-05-10,-885.98,ICA MAXI FROLUNDA
+v0468,c42,SEB,c42-main,Privatkonto,checking,2026-05-11,-1083.04,ELLEVIO AB BG
+v0469,c42,SEB,c42-kort,Kreditkort,credit_card,2026-05-14,-101.34,SUBWAY GBG
+v0470,c42,SEB,c42-main,Privatkonto,checking,2026-05-15,2250.00,VINTED
+v0471,c42,SEB,c42-kort,Kreditkort,credit_card,2026-05-17,-75.57,SUBWAY GBG
+v0472,c42,SEB,c42-main,Privatkonto,checking,2026-05-17,-199.00,BOOKBEAT AB /26-05-16
+v0473,c42,SEB,c42-main,Privatkonto,checking,2026-05-18,-129.00,SPOTIFY P5DFFAF8 /26-05-17
+v0474,c42,SEB,c42-kort,Kreditkort,credit_card,2026-05-19,-158.99,MAX GBG
+v0475,c42,SEB,c42-main,Privatkonto,checking,2026-05-19,800.00,BLOCKET AB
+v0476,c42,SEB,c42-kort,Kreditkort,credit_card,2026-05-20,-90.84,BURGER KING GBG
+v0477,c42,SEB,c42-main,Privatkonto,checking,2026-05-20,-325.00,SWISH ELLA J PIZZA
+v0478,c42,SEB,c42-main,Privatkonto,checking,2026-05-20,3900.00,FÖRSÄKRINGSKASSAN
+v0479,c42,SEB,c42-main,Privatkonto,checking,2026-05-25,-396.71,COOP MAJORNA /26-05-22
+v0480,c42,SEB,c42-main,Privatkonto,checking,2026-05-25,43000.00,LÖN
+v0481,c42,SEB,c42-kort,Kreditkort,credit_card,2026-05-27,-123.79,MCDONALDS GBG KVIBERG
+v0482,c42,SEB,c42-main,Privatkonto,checking,2026-05-27,-11100.00,WALLENSTAM AB BG
+v0483,c42,SEB,c42-kort,Kreditkort,credit_card,2026-05-28,-149.96,IZ *FOODTRUCK PARKEN
+v0484,c42,SEB,c42-main,Privatkonto,checking,2026-05-28,-3700.00,ANYFIN AB BG
+v0485,c42,SEB,c42-main,Privatkonto,checking,2026-05-28,-1163.00,GOTEBORGS STAD BARNOMSORG BG
+v0486,c42,SEB,c42-main,Privatkonto,checking,2026-05-28,-1030.00,AG CSN
+v0487,c42,SEB,c42-main,Privatkonto,checking,2026-05-28,-470.00,SWISH JOHAN K LUNCH
+v0488,c42,SEB,c42-main,Privatkonto,checking,2026-05-29,-645.00,SWISH KARIN B
+v0489,c42,SEB,c42-main,Privatkonto,checking,2026-06-01,-449.00,AG NORDIC WELLNESS
+v0490,c42,SEB,c42-kort,Kreditkort,credit_card,2026-06-03,-626.10,BOOZT.COM
+v0491,c42,SEB,c42-main,Privatkonto,checking,2026-06-03,-865.00,VASTTRAFIK FROLUNDA /26-06-02
+v0492,c42,SEB,c42-kort,Kreditkort,credit_card,2026-06-04,-103.30,BURGER KING GBG
+v0493,c42,SEB,c42-kort,Kreditkort,credit_card,2026-06-04,-89.96,MCDONALDS GBG HISINGEN
+v0494,c42,SEB,c42-main,Privatkonto,checking,2026-06-05,565.00,SWISH NILS Z
+v0495,c42,SEB,c42-main,Privatkonto,checking,2026-06-06,-155.00,AG COMVIQ
+v0496,c42,SEB,c42-kort,Kreditkort,credit_card,2026-06-08,-1466.72,COOP KONSUM NORDSTAN
+v0497,c42,SEB,c42-kort,Kreditkort,credit_card,2026-06-10,-265.19,O'LEARYS GBG
+v0498,c42,SEB,c42-kort,Kreditkort,credit_card,2026-06-11,-334.84,ZARA GBG
+v0499,c42,SEB,c42-kort,Kreditkort,credit_card,2026-06-12,-387.66,ICA SUPERMARKET MAJORNA
+v0500,c42,SEB,c42-main,Privatkonto,checking,2026-06-12,-200.00,UTTAG GBG
+v0501,c42,SEB,c42-main,Privatkonto,checking,2026-06-13,-498.42,O'LEARYS GBG /26-06-12
+v0502,c42,SEB,c42-main,Privatkonto,checking,2026-06-13,-160.00,SWISH NILS Z MIDDAG
+v0503,c42,SEB,c42-main,Privatkonto,checking,2026-06-14,-255.76,O'LEARYS GBG /26-06-13
+v0504,c42,SEB,c42-main,Privatkonto,checking,2026-06-15,-263.28,VAPIANO GBG /26-06-14
+v0505,c42,SEB,c42-kort,Kreditkort,credit_card,2026-06-16,-120.33,IZ *FOODTRUCK PARKEN
+v0506,c42,SEB,c42-main,Privatkonto,checking,2026-06-17,-290.26,ELLEVIO AB BG
+v0507,c42,SEB,c42-main,Privatkonto,checking,2026-06-17,-199.00,BOOKBEAT AB /26-06-16
+v0508,c42,SEB,c42-kort,Kreditkort,credit_card,2026-06-19,-18.47,TIER MOBILITY
+v0509,c42,SEB,c42-main,Privatkonto,checking,2026-06-19,3900.00,FÖRSÄKRINGSKASSAN
+v0510,c42,SEB,c42-main,Privatkonto,checking,2026-06-20,-129.00,SPOTIFY P1D61173 /26-06-17
+v0511,c42,SEB,c42-main,Privatkonto,checking,2026-06-22,-4246.02,SEB KORT BG
+v0512,c42,SEB,c42-kort,Kreditkort,credit_card,2026-06-24,-822.21,ICA SUPERMARKET MAJORNA
+v0513,c42,SEB,c42-main,Privatkonto,checking,2026-06-24,-64.95,ZETTLE_*KAFE SKAFFERIET /26-06-22
+v0514,c42,SEB,c42-kort,Kreditkort,credit_card,2026-06-25,-656.08,COOP MAJORNA
+v0515,c42,SEB,c42-main,Privatkonto,checking,2026-06-25,-114.17,SUBWAY GBG /26-06-24
+v0516,c42,SEB,c42-main,Privatkonto,checking,2026-06-25,43000.00,LÖN
+v0517,c42,SEB,c42-kort,Kreditkort,credit_card,2026-06-27,-55.59,IZ *FOODTRUCK PARKEN
+v0518,c42,SEB,c42-kort,Kreditkort,credit_card,2026-06-27,4246.02,INBETALNING
+v0519,c42,SEB,c42-main,Privatkonto,checking,2026-06-27,-11100.00,WALLENSTAM AB BG
+v0520,c42,SEB,c42-main,Privatkonto,checking,2026-06-27,-3630.00,AG ANYFIN AB
+v0521,c42,SEB,c42-main,Privatkonto,checking,2026-06-28,-1170.00,AG CSN
+v0522,c42,SEB,c42-main,Privatkonto,checking,2026-06-28,-831.00,GOTEBORGS STAD BARNOMSORG BG
+v0523,c42,SEB,c42-kort,Kreditkort,credit_card,2026-06-29,-155.79,MAX GBG
+v0524,c42,SEB,c42-kort,Kreditkort,credit_card,2026-06-30,-951.23,ICA SUPERMARKET MAJORNA
+v0525,c42,SEB,c42-main,Privatkonto,checking,2026-06-30,-370.00,SWISH NILS Z
+v0526,c42,SEB,c42-kort,Kreditkort,credit_card,2026-07-01,-591.18,COOP MAJORNA
+v0527,c42,SEB,c42-main,Privatkonto,checking,2026-07-01,-449.00,AG NORDIC WELLNESS
+v0528,c42,SEB,c42-main,Privatkonto,checking,2026-07-03,-865.00,VASTTRAFIK KVIBERG /26-07-02
+v0529,c42,SEB,c42-main,Privatkonto,checking,2026-07-03,-255.00,SWISH JOHAN K MAT
+v0530,c42,SEB,c42-main,Privatkonto,checking,2026-07-05,-200.00,ATM HISINGEN
+v0531,c42,SEB,c42-main,Privatkonto,checking,2026-07-06,-191.00,AG COMVIQ
+v0532,c42,SEB,c42-kort,Kreditkort,credit_card,2026-07-07,-162.42,MAX GBG
+v0533,c42,SEB,c42-kort,Kreditkort,credit_card,2026-07-08,-1269.91,ICA MAXI FROLUNDA
+v0534,c42,SEB,c42-main,Privatkonto,checking,2026-07-11,-416.84,PAYPAL *EPICGAMES /26-07-10
+v0535,c42,SEB,c42-kort,Kreditkort,credit_card,2026-07-12,-175.03,ICA NARA HISINGEN
+v0536,c42,SEB,c42-main,Privatkonto,checking,2026-07-13,-1203.97,ELLEVIO AB BG
+v0537,c42,SEB,c42-main,Privatkonto,checking,2026-07-13,310.00,SWISH ELLA J
+v0538,c42,SEB,c42-kort,Kreditkort,credit_card,2026-07-17,-1207.35,COOP KONSUM NORDSTAN
+v0539,c42,SEB,c42-kort,Kreditkort,credit_card,2026-07-17,-193.09,VAPIANO GBG
+v0540,c42,SEB,c42-main,Privatkonto,checking,2026-07-17,-199.00,BOOKBEAT AB /26-07-16
+v0541,c42,SEB,c42-main,Privatkonto,checking,2026-07-17,-161.18,VAPIANO GBG /26-07-14
+v0542,c42,SEB,c42-kort,Kreditkort,credit_card,2026-07-19,-812.00,NELLY.COM
+v0543,c42,SEB,c42-kort,Kreditkort,credit_card,2026-07-19,-614.38,ICA MAXI FROLUNDA
+v0544,c42,SEB,c42-main,Privatkonto,checking,2026-07-19,-129.00,SPOTIFY P1237B /26-07-17
+v0545,c42,SEB,c42-main,Privatkonto,checking,2026-07-20,3900.00,FÖRSÄKRINGSKASSAN
+v0546,c42,SEB,c42-kort,Kreditkort,credit_card,2026-07-21,-121.91,SUBWAY GBG
+v0547,c42,SEB,c42-kort,Kreditkort,credit_card,2026-07-22,-41.92,VOI TECHNOLOGY AB
+v0548,c42,SEB,c42-main,Privatkonto,checking,2026-07-23,-6053.47,SEB KORT BG
+v0549,c42,SEB,c42-kort,Kreditkort,credit_card,2026-07-24,-1352.22,BOOZT.COM
+v0550,c42,SEB,c42-kort,Kreditkort,credit_card,2026-07-24,6053.47,INBETALNING
+v0551,c42,SEB,c42-main,Privatkonto,checking,2026-07-24,43000.00,LÖN
+v0552,c42,SEB,c42-kort,Kreditkort,credit_card,2026-07-26,-320.73,LINDEX GBG
+v0553,c42,SEB,c42-main,Privatkonto,checking,2026-07-26,-900.00,FOLKTANDVARDEN BG
+v0554,c42,SEB,c42-main,Privatkonto,checking,2026-07-27,-11100.00,WALLENSTAM AB BG
+v0555,c42,SEB,c42-main,Privatkonto,checking,2026-07-27,-3770.00,ANYFIN AB BG
+v0556,c42,SEB,c42-main,Privatkonto,checking,2026-07-28,-1965.00,AG CSN
+v0557,c42,SEB,c42-main,Privatkonto,checking,2026-07-28,-1042.00,GOTEBORGS STAD BARNOMSORG BG
+v0558,c42,SEB,c42-main,Privatkonto,checking,2026-08-01,-449.00,AG NORDIC WELLNESS
+v0559,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-02,-703.75,COOP KONSUM NORDSTAN
+v0560,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-02,-442.50,COOP KONSUM NORDSTAN
+v0561,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-02,-360.36,O'LEARYS GBG
+v0562,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-02,-107.41,SUBWAY GBG
+v0563,c42,SEB,c42-main,Privatkonto,checking,2026-08-02,-273.44,ICA MAXI FROLUNDA /26-07-31
+v0564,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-03,-124.90,ICA SUPERMARKET MAJORNA
+v0565,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-04,-412.59,UBER *TRIP HELP.UBER.COM
+v0566,c42,SEB,c42-main,Privatkonto,checking,2026-08-04,-865.00,VASTTRAFIK MAJORNA /26-08-03
+v0567,c42,SEB,c42-main,Privatkonto,checking,2026-08-04,-198.00,AG COMVIQ
+v0568,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-05,-172.10,ZETTLE_*KAFE SKAFFERIET
+v0569,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-06,-1357.84,ICA MAXI FROLUNDA
+v0570,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-07,-1214.29,ICA MAXI FROLUNDA
+v0571,c42,SEB,c42-main,Privatkonto,checking,2026-08-07,-144.77,IZ *FOODTRUCK PARKEN /26-08-06
+v0572,c42,SEB,c42-main,Privatkonto,checking,2026-08-08,-125.00,SWISH KARIN B
+v0573,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-09,-1337.01,ICA NARA HISINGEN
+v0574,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-09,-152.25,MAX GBG
+v0575,c42,SEB,c42-main,Privatkonto,checking,2026-08-09,-1306.21,COOP KONSUM NORDSTAN /26-08-07
+v0576,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-10,-237.50,TAXI KURIR
+v0577,c42,SEB,c42-main,Privatkonto,checking,2026-08-11,-873.27,ELLEVIO AB BG
+v0578,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-12,-249.57,LINDEX GBG
+v0579,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-14,-231.04,VAPIANO GBG
+v0580,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-16,-1059.91,ICA NARA HISINGEN
+v0581,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-16,-181.88,VAPIANO GBG
+v0582,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-18,-536.64,COOP MAJORNA
+v0583,c42,SEB,c42-main,Privatkonto,checking,2026-08-18,-1354.22,KLARNA*CDON /26-08-16
+v0584,c42,SEB,c42-main,Privatkonto,checking,2026-08-19,-6862.14,SEB KORT BG
+v0585,c42,SEB,c42-main,Privatkonto,checking,2026-08-19,-199.00,BOOKBEAT AB /26-08-16
+v0586,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-20,-702.11,BOOZT.COM
+v0587,c42,SEB,c42-main,Privatkonto,checking,2026-08-20,-129.00,SPOTIFY P5D0A32E /26-08-17
+v0588,c42,SEB,c42-main,Privatkonto,checking,2026-08-20,3900.00,FÖRSÄKRINGSKASSAN
+v0589,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-21,-184.65,ICA SUPERMARKET MAJORNA
+v0590,c42,SEB,c42-main,Privatkonto,checking,2026-08-22,-185.00,SWISH JOHAN K
+v0591,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-23,-253.99,APOTEKET AB FROLUNDA
+v0592,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-23,-225.49,O'LEARYS GBG
+v0593,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-24,-331.64,ICA MAXI FROLUNDA
+v0594,c42,SEB,c42-main,Privatkonto,checking,2026-08-25,45500.00,LÖN NORDVIK LOGISTIK AB
+v0595,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-27,6862.14,INBETALNING TACK
+v0596,c42,SEB,c42-main,Privatkonto,checking,2026-08-27,-11100.00,WALLENSTAM AB BG
+v0597,c42,SEB,c42-main,Privatkonto,checking,2026-08-27,-181.17,GOOGLE *GOOGLE PLAY /26-08-24
+v0598,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-28,-512.88,ICA MAXI FROLUNDA
+v0599,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-28,-279.15,O'LEARYS GBG
+v0600,c42,SEB,c42-main,Privatkonto,checking,2026-08-28,-3200.00,PRAKTIKERTJANST BG
+v0601,c42,SEB,c42-main,Privatkonto,checking,2026-08-28,-2270.00,ANYFIN AB BG
+v0602,c42,SEB,c42-main,Privatkonto,checking,2026-08-28,-2067.00,AG CSN
+v0603,c42,SEB,c42-main,Privatkonto,checking,2026-08-28,-660.00,GOTEBORGS STAD BARNOMSORG BG
+v0604,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-29,-1234.14,COOP KONSUM NORDSTAN
+v0605,c42,SEB,c42-main,Privatkonto,checking,2026-08-30,-110.58,ZETTLE_*KAFE SKAFFERIET /26-08-29
+v0606,c42,SEB,c42-kort,Kreditkort,credit_card,2026-08-31,-267.47,VAPIANO GBG
+v0607,c42,SEB,c42-main,Privatkonto,checking,2026-09-01,-449.00,AG NORDIC WELLNESS
+v0608,c42,SEB,c42-kort,Kreditkort,credit_card,2026-09-02,-64.42,ICA MAXI FROLUNDA
+v0609,c42,SEB,c42-main,Privatkonto,checking,2026-09-03,-235.00,AG COMVIQ
+v0610,c42,SEB,c42-main,Privatkonto,checking,2026-09-03,-77.60,SUBWAY GBG /26-09-02
+v0611,c42,SEB,c42-kort,Kreditkort,credit_card,2026-09-05,-124.62,UBER *TRIP HELP.UBER.COM
+v0612,c42,SEB,c42-main,Privatkonto,checking,2026-09-06,-865.00,VASTTRAFIK MOLNDAL /26-09-03
+v0613,c42,SEB,c42-kort,Kreditkort,credit_card,2026-09-07,-150.88,MAX GBG
+v0614,c42,SEB,c42-kort,Kreditkort,credit_card,2026-09-10,-763.19,COOP MAJORNA
+v0615,c42,SEB,c42-main,Privatkonto,checking,2026-09-11,-630.00,SWISH NILS Z
+v0616,c42,SEB,c42-main,Privatkonto,checking,2026-09-12,-496.89,ELLEVIO AB BG
+v0617,c42,SEB,c42-kort,Kreditkort,credit_card,2026-09-15,-395.05,ZALANDO SE
+v0618,c42,SEB,c42-kort,Kreditkort,credit_card,2026-09-16,-799.44,COOP KONSUM NORDSTAN
+v0619,c42,SEB,c42-main,Privatkonto,checking,2026-09-17,-199.00,BOOKBEAT AB /26-09-16
+v0620,c42,SEB,c42-main,Privatkonto,checking,2026-09-17,-168.47,BURGER KING GBG /26-09-16
+v0621,c42,SEB,c42-main,Privatkonto,checking,2026-09-17,-114.83,ICA SUPERMARKET MAJORNA /26-09-16
+v0622,c42,SEB,c42-main,Privatkonto,checking,2026-09-18,3900.00,FÖRSÄKRINGSKASSAN
+v0623,c42,SEB,c42-main,Privatkonto,checking,2026-09-19,-129.00,SPOTIFY P10E482 /26-09-17
+v0624,c42,SEB,c42-main,Privatkonto,checking,2026-09-21,-12873.06,SEB KORT BG
+v0625,c42,SEB,c42-kort,Kreditkort,credit_card,2026-09-22,-1252.02,COOP KONSUM NORDSTAN
+v0626,c42,SEB,c42-main,Privatkonto,checking,2026-09-23,-292.71,ICA SUPERMARKET MAJORNA /26-09-20
+v0627,c42,SEB,c42-kort,Kreditkort,credit_card,2026-09-24,-115.76,COOP MAJORNA
+v0628,c42,SEB,c42-kort,Kreditkort,credit_card,2026-09-24,12873.06,INBETALNING
+v0629,c42,SEB,c42-main,Privatkonto,checking,2026-09-24,-72.13,COOP MAJORNA /26-09-22
+v0630,c42,SEB,c42-main,Privatkonto,checking,2026-09-25,45400.00,LÖN
+v0631,c42,SEB,c42-main,Privatkonto,checking,2026-09-26,-330.00,SWISH JOHAN K
+v0632,c42,SEB,c42-main,Privatkonto,checking,2026-09-26,-330.00,SWISH JOHAN K KONSERT
+v0633,c42,SEB,c42-main,Privatkonto,checking,2026-09-27,-11100.00,WALLENSTAM AB BG
+v0634,c42,SEB,c42-main,Privatkonto,checking,2026-09-27,-1450.00,AG ANYFIN AB
+v0635,c42,SEB,c42-kort,Kreditkort,credit_card,2026-09-28,-828.87,COOP KONSUM NORDSTAN
+v0636,c42,SEB,c42-kort,Kreditkort,credit_card,2026-09-28,-209.35,ICA NARA HISINGEN
+v0637,c42,SEB,c42-main,Privatkonto,checking,2026-09-28,-1065.00,AG CSN
+v0638,c42,SEB,c42-main,Privatkonto,checking,2026-09-28,-714.00,GOTEBORGS STAD BARNOMSORG BG
+v0639,c42,SEB,c42-kort,Kreditkort,credit_card,2026-09-30,-576.56,ICA MAXI FROLUNDA
+v0640,c42,SEB,c42-kort,Kreditkort,credit_card,2026-09-30,-185.35,MAX GBG
+v0641,c42,SEB,c42-main,Privatkonto,checking,2026-09-30,-1188.88,COOP KONSUM NORDSTAN /26-09-28
+v0642,c42,SEB,c42-main,Privatkonto,checking,2026-10-01,-449.00,AG NORDIC WELLNESS
+v0643,c42,SEB,c42-kort,Kreditkort,credit_card,2026-10-04,-236.51,VAPIANO GBG
+v0644,c42,SEB,c42-main,Privatkonto,checking,2026-10-04,-865.00,VASTTRAFIK MAJORNA /26-10-02
+v0645,c42,SEB,c42-main,Privatkonto,checking,2026-10-06,-244.00,AG COMVIQ
+v0646,c42,SEB,c42-kort,Kreditkort,credit_card,2026-10-07,-853.92,ICA SUPERMARKET MAJORNA
+v0647,c42,SEB,c42-kort,Kreditkort,credit_card,2026-10-07,-581.15,ICA NARA HISINGEN
+v0648,c42,SEB,c42-main,Privatkonto,checking,2026-10-09,-54.50,TIER MOBILITY /26-10-08
+v0649,c42,SEB,c42-main,Privatkonto,checking,2026-10-10,-76.55,ZETTLE_*KAFE SKAFFERIET /26-10-07
+v0650,c42,SEB,c42-main,Privatkonto,checking,2026-10-11,-331.78,ELLEVIO AB BG
+v0651,c42,SEB,c42-main,Privatkonto,checking,2026-10-11,255.00,SWISH NILS Z MATKASSE
+v0652,c42,SEB,c42-kort,Kreditkort,credit_card,2026-10-14,-698.35,NELLY.COM
+v0653,c42,SEB,c42-kort,Kreditkort,credit_card,2026-10-14,-505.85,ICA MAXI FROLUNDA
+v0654,c42,SEB,c42-kort,Kreditkort,credit_card,2026-10-14,-80.50,SUBWAY GBG
+v0655,c42,SEB,c42-kort,Kreditkort,credit_card,2026-10-14,-71.52,SUBWAY GBG
+v0656,c42,SEB,c42-kort,Kreditkort,credit_card,2026-10-15,-78.17,COOP KONSUM NORDSTAN
+v0657,c42,SEB,c42-main,Privatkonto,checking,2026-10-15,-183.30,COOP KONSUM NORDSTAN /26-10-12
+v0658,c42,SEB,c42-main,Privatkonto,checking,2026-10-15,-110.39,MAX GBG /26-10-13
+v0659,c42,SEB,c42-main,Privatkonto,checking,2026-10-16,-450.00,SWISH NILS Z
+v0660,c42,SEB,c42-kort,Kreditkort,credit_card,2026-10-17,-395.95,KLARNA*ELLOS
+v0661,c42,SEB,c42-kort,Kreditkort,credit_card,2026-10-18,-173.67,MAX GBG
+v0662,c42,SEB,c42-main,Privatkonto,checking,2026-10-18,-5465.51,SEB KORT BG
+v0663,c42,SEB,c42-main,Privatkonto,checking,2026-10-18,-199.00,BOOKBEAT AB /26-10-16
+v0664,c42,SEB,c42-kort,Kreditkort,credit_card,2026-10-20,-377.62,ICA MAXI FROLUNDA
+v0665,c42,SEB,c42-kort,Kreditkort,credit_card,2026-10-20,-268.05,VAPIANO GBG
+v0666,c42,SEB,c42-main,Privatkonto,checking,2026-10-20,-129.00,SPOTIFY P5337E09 /26-10-17
+v0667,c42,SEB,c42-main,Privatkonto,checking,2026-10-20,3900.00,FÖRSÄKRINGSKASSAN
+v0668,c42,SEB,c42-main,Privatkonto,checking,2026-10-21,-500.00,BANKOMAT LINNE
+v0669,c42,SEB,c42-main,Privatkonto,checking,2026-10-22,1250.00,SELLPY AB
+v0670,c42,SEB,c42-kort,Kreditkort,credit_card,2026-10-23,-1108.51,ICA NARA HISINGEN
+v0671,c42,SEB,c42-main,Privatkonto,checking,2026-10-23,-1556.26,ICA SUPERMARKET MAJORNA /26-10-21
+v0672,c42,SEB,c42-main,Privatkonto,checking,2026-10-23,45800.00,LÖN NORDVIK LOGISTIK AB
+v0673,c42,SEB,c42-kort,Kreditkort,credit_card,2026-10-24,-1402.55,ICA SUPERMARKET MAJORNA
+v0674,c42,SEB,c42-kort,Kreditkort,credit_card,2026-10-25,-1217.87,COOP MAJORNA
+v0675,c42,SEB,c42-kort,Kreditkort,credit_card,2026-10-25,-141.47,MCDONALDS GBG LINNE
+v0676,c42,SEB,c42-kort,Kreditkort,credit_card,2026-10-25,-52.18,TIER MOBILITY
+v0677,c42,SEB,c42-kort,Kreditkort,credit_card,2026-10-25,5465.51,INBETALNING TACK
+v0678,c42,SEB,c42-main,Privatkonto,checking,2026-10-25,-81.19,SUBWAY GBG /26-10-22
+v0679,c42,SEB,c42-kort,Kreditkort,credit_card,2026-10-26,-274.52,VAPIANO GBG
+v0680,c42,SEB,c42-main,Privatkonto,checking,2026-10-27,-11100.00,WALLENSTAM AB BG
+v0681,c42,SEB,c42-kort,Kreditkort,credit_card,2026-10-28,-171.19,ICA SUPERMARKET MAJORNA
+v0682,c42,SEB,c42-main,Privatkonto,checking,2026-10-28,-2300.00,ANYFIN AB BG
+v0683,c42,SEB,c42-main,Privatkonto,checking,2026-10-28,-2029.00,AG CSN
+v0684,c42,SEB,c42-main,Privatkonto,checking,2026-10-28,-963.00,GOTEBORGS STAD BARNOMSORG BG
+v0685,c42,SEB,c42-kort,Kreditkort,credit_card,2026-10-29,-1491.17,BOOZT.COM
+v0686,c42,SEB,c42-kort,Kreditkort,credit_card,2026-10-31,-131.72,VAPIANO GBG
+v0687,c42,SEB,c42-kort,Kreditkort,credit_card,2026-10-31,-96.36,SUBWAY GBG
+v0688,c43,SEB,c43-main,Privatkonto,checking,2026-05-01,-290.00,AG FRISKIS&SVETTIS
+v0689,c43,SEB,c43-kort,Kreditkort,credit_card,2026-05-02,-1315.48,COOP KONSUM LIMHAMN
+v0690,c43,SEB,c43-main,Privatkonto,checking,2026-05-03,-795.00,SKANETRAFIKEN TRIANGELN /26-05-01
+v0691,c43,SEB,c43-main,Privatkonto,checking,2026-05-03,-370.00,AG TELIA SVERIGE AB
+v0692,c43,SEB,c43-kort,Kreditkort,credit_card,2026-05-04,-60.63,ESPRESSO HOUSE 1640
+v0693,c43,SEB,c43-main,Privatkonto,checking,2026-05-07,-131.00,AG TELENOR SVERIGE
+v0694,c43,SEB,c43-kort,Kreditkort,credit_card,2026-05-10,-174.31,MCDONALDS MALMO TRIANGELN
+v0695,c43,SEB,c43-main,Privatkonto,checking,2026-05-11,-969.24,ZARA MALMO /26-05-10
+v0696,c43,SEB,c43-kort,Kreditkort,credit_card,2026-05-13,-279.77,TAXI KURIR
+v0697,c43,SEB,c43-main,Privatkonto,checking,2026-05-15,-213.81,GOTEBORG ENERGI BG
+v0698,c43,SEB,c43-main,Privatkonto,checking,2026-05-16,-1160.83,LIDL VASTRA HAMNEN /26-05-15
+v0699,c43,SEB,c43-main,Privatkonto,checking,2026-05-17,-229.00,STORYTEL AB /26-05-16
+v0700,c43,SEB,c43-main,Privatkonto,checking,2026-05-17,-78.62,IZ *BAR ORANGERIET /26-05-15
+v0701,c43,SEB,c43-kort,Kreditkort,credit_card,2026-05-18,-174.73,MCDONALDS MALMO HYLLIE
+v0702,c43,SEB,c43-main,Privatkonto,checking,2026-05-18,-199.00,BOOKBEAT AB /26-05-16
+v0703,c43,SEB,c43-main,Privatkonto,checking,2026-05-18,-95.09,JOE & THE JUICE MALMO /26-05-17
+v0704,c43,SEB,c43-kort,Kreditkort,credit_card,2026-05-20,-68.48,ESPRESSO HOUSE 2744
+v0705,c43,SEB,c43-main,Privatkonto,checking,2026-05-20,2650.00,FÖRSÄKRINGSKASSAN
+v0706,c43,SEB,c43-main,Privatkonto,checking,2026-05-21,-129.00,YOUTUBE PREMIUM /26-05-20
+v0707,c43,SEB,c43-main,Privatkonto,checking,2026-05-21,-80.00,SWISH LEILA A
+v0708,c43,SEB,c43-kort,Kreditkort,credit_card,2026-05-23,-305.87,RESTAURANG PARKEN
+v0709,c43,SEB,c43-kort,Kreditkort,credit_card,2026-05-23,-89.93,JOE & THE JUICE MALMO
+v0710,c43,SEB,c43-kort,Kreditkort,credit_card,2026-05-24,-45.84,ESPRESSO HOUSE 3438
+v0711,c43,SEB,c43-kort,Kreditkort,credit_card,2026-05-25,-1186.71,LIDL VASTRA HAMNEN
+v0712,c43,SEB,c43-kort,Kreditkort,credit_card,2026-05-25,-132.36,BOLT.EU/O/2605
+v0713,c43,SEB,c43-main,Privatkonto,checking,2026-05-25,-2700.00,EGEN ÖVERF RÄNTEKONTO
+v0714,c43,SEB,c43-main,Privatkonto,checking,2026-05-25,39200.00,LÖN
+v0715,c43,SEB,c43-spar,Räntekonto,savings,2026-05-25,2700.00,EGEN ÖVERF PRIVATKONTO
+v0716,c43,SEB,c43-main,Privatkonto,checking,2026-05-26,-766.10,KLARNA BANK AB BG
+v0717,c43,SEB,c43-kort,Kreditkort,credit_card,2026-05-27,-109.28,JOE & THE JUICE MALMO
+v0718,c43,SEB,c43-main,Privatkonto,checking,2026-05-27,-6730.00,BRF HAMNFYREN BG
+v0719,c43,SEB,c43-main,Privatkonto,checking,2026-05-28,-10650.00,AG SBAB BANK
+v0720,c43,SEB,c43-main,Privatkonto,checking,2026-05-28,-1026.00,MALMO STAD BARNOMSORG BG
+v0721,c43,SEB,c43-main,Privatkonto,checking,2026-05-28,-300.00,SWISH LUCAS I EL
+v0722,c43,SEB,c43-kort,Kreditkort,credit_card,2026-05-29,-388.19,O'LEARYS MALMO
+v0723,c43,SEB,c43-main,Privatkonto,checking,2026-05-29,-1171.01,COOP TRIANGELN /26-05-28
+v0724,c43,SEB,c43-kort,Kreditkort,credit_card,2026-05-30,-247.62,KICKS MALMO
+v0725,c43,SEB,c43-kort,Kreditkort,credit_card,2026-05-30,-130.85,SUMUP *BISTRO BRYGGAN
+v0726,c43,SEB,c43-main,Privatkonto,checking,2026-05-30,-50.27,IZ *BAR ORANGERIET /26-05-29
+v0727,c43,SEB,c43-main,Privatkonto,checking,2026-06-01,-290.00,AG FRISKIS&SVETTIS
+v0728,c43,SEB,c43-main,Privatkonto,checking,2026-06-04,-795.00,SKANETRAFIKEN VASTRA HAMNEN /26-06-02
+v0729,c43,SEB,c43-kort,Kreditkort,credit_card,2026-06-05,-416.10,LIDL VASTRA HAMNEN
+v0730,c43,SEB,c43-main,Privatkonto,checking,2026-06-05,-1254.48,TEMPO JAGERSRO /26-06-02
+v0731,c43,SEB,c43-main,Privatkonto,checking,2026-06-05,-315.44,O'LEARYS MALMO /26-06-03
+v0732,c43,SEB,c43-main,Privatkonto,checking,2026-06-06,-260.00,AG TELIA SVERIGE AB
+v0733,c43,SEB,c43-kort,Kreditkort,credit_card,2026-06-07,-43.08,TIER MOBILITY
+v0734,c43,SEB,c43-main,Privatkonto,checking,2026-06-07,-247.00,AG TELENOR SVERIGE
+v0735,c43,SEB,c43-main,Privatkonto,checking,2026-06-10,-710.76,H&M MALMO /26-06-09
+v0736,c43,SEB,c43-main,Privatkonto,checking,2026-06-10,-50.11,ESPRESSO HOUSE 2547 /26-06-07
+v0737,c43,SEB,c43-kort,Kreditkort,credit_card,2026-06-11,-1107.31,ICA KVANTUM TRIANGELN
+v0738,c43,SEB,c43-kort,Kreditkort,credit_card,2026-06-11,-1069.67,LIDL VASTRA HAMNEN
+v0739,c43,SEB,c43-kort,Kreditkort,credit_card,2026-06-11,-915.99,TEMPO JAGERSRO
+v0740,c43,SEB,c43-kort,Kreditkort,credit_card,2026-06-12,-1577.95,COOP TRIANGELN
+v0741,c43,SEB,c43-main,Privatkonto,checking,2026-06-13,-27.13,TIER MOBILITY /26-06-12
+v0742,c43,SEB,c43-main,Privatkonto,checking,2026-06-13,425.00,SWISH MARIA D MIDDAG
+v0743,c43,SEB,c43-main,Privatkonto,checking,2026-06-15,-1318.28,TEMPO JAGERSRO /26-06-13
+v0744,c43,SEB,c43-main,Privatkonto,checking,2026-06-15,-205.00,SUSHI YAMA MALMO /26-06-12
+v0745,c43,SEB,c43-kort,Kreditkort,credit_card,2026-06-16,-1746.96,BYGGMAX MALMO
+v0746,c43,SEB,c43-main,Privatkonto,checking,2026-06-16,-249.26,GOTEBORG ENERGI BG
+v0747,c43,SEB,c43-kort,Kreditkort,credit_card,2026-06-17,-339.13,KJELL & CO MALMO
+v0748,c43,SEB,c43-kort,Kreditkort,credit_card,2026-06-18,-376.00,COOP KONSUM LIMHAMN
+v0749,c43,SEB,c43-main,Privatkonto,checking,2026-06-18,-4710.05,SEB KORT BG
+v0750,c43,SEB,c43-main,Privatkonto,checking,2026-06-18,-114.13,ICA KVANTUM TRIANGELN /26-06-15
+v0751,c43,SEB,c43-kort,Kreditkort,credit_card,2026-06-19,-1683.17,SAS
+v0752,c43,SEB,c43-main,Privatkonto,checking,2026-06-19,-229.00,STORYTEL AB /26-06-16
+v0753,c43,SEB,c43-main,Privatkonto,checking,2026-06-19,-199.00,BOOKBEAT AB /26-06-16
+v0754,c43,SEB,c43-main,Privatkonto,checking,2026-06-19,710.76,H&M MALMO /26-06-18
+v0755,c43,SEB,c43-main,Privatkonto,checking,2026-06-19,2650.00,FÖRSÄKRINGSKASSAN
+v0756,c43,SEB,c43-kort,Kreditkort,credit_card,2026-06-21,-485.95,TEMPO JAGERSRO
+v0757,c43,SEB,c43-kort,Kreditkort,credit_card,2026-06-21,-471.97,O'LEARYS MALMO
+v0758,c43,SEB,c43-kort,Kreditkort,credit_card,2026-06-22,-8614.11,BOOKING.COM HOTEL
+v0759,c43,SEB,c43-main,Privatkonto,checking,2026-06-22,3530.00,SWISH MARIA D HYRA
+v0760,c43,SEB,c43-main,Privatkonto,checking,2026-06-23,-129.00,YOUTUBE PREMIUM /26-06-20
+v0761,c43,SEB,c43-kort,Kreditkort,credit_card,2026-06-24,4710.05,INBETALNING TACK
+v0762,c43,SEB,c43-kort,Kreditkort,credit_card,2026-06-25,-996.28,TEMPO JAGERSRO
+v0763,c43,SEB,c43-kort,Kreditkort,credit_card,2026-06-25,-340.64,LIDL VASTRA HAMNEN
+v0764,c43,SEB,c43-main,Privatkonto,checking,2026-06-25,-4800.00,EGEN ÖVERF RÄNTEKONTO
+v0765,c43,SEB,c43-main,Privatkonto,checking,2026-06-25,39200.00,LÖN SOLDALEN BAGERI AB
+v0766,c43,SEB,c43-spar,Räntekonto,savings,2026-06-25,4800.00,EGEN ÖVERF PRIVATKONTO
+v0767,c43,SEB,c43-main,Privatkonto,checking,2026-06-27,-6730.00,BRF HAMNFYREN BG
+v0768,c43,SEB,c43-main,Privatkonto,checking,2026-06-28,-10650.00,AG SBAB BANK
+v0769,c43,SEB,c43-main,Privatkonto,checking,2026-06-28,-1598.00,MALMO STAD BARNOMSORG BG
+v0770,c43,SEB,c43-main,Privatkonto,checking,2026-06-28,-299.31,O'LEARYS MALMO /26-06-25
+v0771,c43,SEB,c43-kort,Kreditkort,credit_card,2026-06-29,-1456.65,TEMPO JAGERSRO
+v0772,c43,SEB,c43-kort,Kreditkort,credit_card,2026-06-29,-1172.19,ICA KVANTUM TRIANGELN
+v0773,c43,SEB,c43-kort,Kreditkort,credit_card,2026-06-29,-891.36,COOP TRIANGELN
+v0774,c43,SEB,c43-main,Privatkonto,checking,2026-06-30,-155.00,SWISH THAI STALLET AB
+v0775,c43,SEB,c43-main,Privatkonto,checking,2026-07-01,-290.00,AG FRISKIS&SVETTIS
+v0776,c43,SEB,c43-main,Privatkonto,checking,2026-07-01,-86.95,PAYPAL *EPICGAMES /26-06-29
+v0777,c43,SEB,c43-kort,Kreditkort,credit_card,2026-07-02,-228.77,RESTAURANG HAMNEN
+v0778,c43,SEB,c43-main,Privatkonto,checking,2026-07-02,-795.00,SKANETRAFIKEN TRIANGELN /26-07-01
+v0779,c43,SEB,c43-main,Privatkonto,checking,2026-07-02,-119.95,TEMPO JAGERSRO /26-07-01
+v0780,c43,SEB,c43-main,Privatkonto,checking,2026-07-03,-258.00,AG TELENOR SVERIGE
+v0781,c43,SEB,c43-kort,Kreditkort,credit_card,2026-07-04,-367.00,COOP KONSUM LIMHAMN
+v0782,c43,SEB,c43-main,Privatkonto,checking,2026-07-04,-203.00,AG TELIA SVERIGE AB
+v0783,c43,SEB,c43-kort,Kreditkort,credit_card,2026-07-06,-396.61,ADLIBRIS
+v0784,c43,SEB,c43-kort,Kreditkort,credit_card,2026-07-07,-554.07,KICKS MALMO
+v0785,c43,SEB,c43-kort,Kreditkort,credit_card,2026-07-09,-353.52,UBER *TRIP HELP.UBER.COM
+v0786,c43,SEB,c43-main,Privatkonto,checking,2026-07-09,-1282.60,THON HOTEL OSLO /26-07-07 NOK 1295.56
+v0787,c43,SEB,c43-main,Privatkonto,checking,2026-07-09,-923.88,THON HOTEL OSLO /26-07-07 NOK 933.21
+v0788,c43,SEB,c43-main,Privatkonto,checking,2026-07-10,-583.85,REMA 1000 OSLO /26-07-08 NOK 589.75
+v0789,c43,SEB,c43-main,Privatkonto,checking,2026-07-10,-269.52,PEPPES PIZZA OSLO /26-07-08 NOK 272.25
+v0790,c43,SEB,c43-main,Privatkonto,checking,2026-07-11,-516.83,HOLMENKOLLEN OSLO /26-07-09 NOK 522.05
+v0791,c43,SEB,c43-main,Privatkonto,checking,2026-07-11,-218.79,PEPPES PIZZA OSLO /26-07-09 NOK 221.00
+v0792,c43,SEB,c43-main,Privatkonto,checking,2026-07-12,-103.83,PEPPES PIZZA OSLO /26-07-10 NOK 104.88
+v0793,c43,SEB,c43-main,Privatkonto,checking,2026-07-14,-100.90,JOE & THE JUICE MALMO /26-07-13
+v0794,c43,SEB,c43-kort,Kreditkort,credit_card,2026-07-15,-617.17,COOP KONSUM LIMHAMN
+v0795,c43,SEB,c43-kort,Kreditkort,credit_card,2026-07-15,-84.01,MCDONALDS MALMO MOLLEVANGEN
+v0796,c43,SEB,c43-main,Privatkonto,checking,2026-07-15,-185.66,RESTAURANG HAMNEN /26-07-13
+v0797,c43,SEB,c43-kort,Kreditkort,credit_card,2026-07-16,-94.40,MCDONALDS MALMO VASTRA HAMNEN
+v0798,c43,SEB,c43-main,Privatkonto,checking,2026-07-16,-109.98,ESPRESSO HOUSE 1223 /26-07-13
+v0799,c43,SEB,c43-main,Privatkonto,checking,2026-07-17,-599.47,GOTEBORG ENERGI BG
+v0800,c43,SEB,c43-main,Privatkonto,checking,2026-07-17,-229.00,STORYTEL AB /26-07-16
+v0801,c43,SEB,c43-main,Privatkonto,checking,2026-07-17,-199.00,BOOKBEAT AB /26-07-16
+v0802,c43,SEB,c43-kort,Kreditkort,credit_card,2026-07-19,-602.39,TEMPO JAGERSRO
+v0803,c43,SEB,c43-kort,Kreditkort,credit_card,2026-07-19,-16.10,TIER MOBILITY
+v0804,c43,SEB,c43-main,Privatkonto,checking,2026-07-19,-304.90,RESTAURANG BRYGGAN /26-07-18
+v0805,c43,SEB,c43-main,Privatkonto,checking,2026-07-20,-23704.51,SEB KORT BG
+v0806,c43,SEB,c43-main,Privatkonto,checking,2026-07-20,-407.61,ICA KVANTUM TRIANGELN /26-07-18
+v0807,c43,SEB,c43-main,Privatkonto,checking,2026-07-20,2650.00,FÖRSÄKRINGSKASSAN
+v0808,c43,SEB,c43-main,Privatkonto,checking,2026-07-21,-129.00,YOUTUBE PREMIUM /26-07-20
+v0809,c43,SEB,c43-kort,Kreditkort,credit_card,2026-07-22,-744.68,LIDL VASTRA HAMNEN
+v0810,c43,SEB,c43-main,Privatkonto,checking,2026-07-22,-1171.12,KLARNA BANK AB BG
+v0811,c43,SEB,c43-main,Privatkonto,checking,2026-07-22,-115.00,SWISH LEILA A MATKASSE
+v0812,c43,SEB,c43-main,Privatkonto,checking,2026-07-24,-500.00,EGEN ÖVERF RÄNTEKONTO
+v0813,c43,SEB,c43-main,Privatkonto,checking,2026-07-24,39200.00,LÖN
+v0814,c43,SEB,c43-spar,Räntekonto,savings,2026-07-24,500.00,EGEN ÖVERF PRIVATKONTO
+v0815,c43,SEB,c43-kort,Kreditkort,credit_card,2026-07-26,-1589.92,ICA KVANTUM TRIANGELN
+v0816,c43,SEB,c43-kort,Kreditkort,credit_card,2026-07-26,23704.51,INBETALNING TACK
+v0817,c43,SEB,c43-main,Privatkonto,checking,2026-07-26,-274.09,APOTEK HJARTAT LIMHAMN /26-07-25
+v0818,c43,SEB,c43-kort,Kreditkort,credit_card,2026-07-27,-536.62,LIDL VASTRA HAMNEN
+v0819,c43,SEB,c43-main,Privatkonto,checking,2026-07-27,-6730.00,BRF HAMNFYREN BG
+v0820,c43,SEB,c43-main,Privatkonto,checking,2026-07-28,-10650.00,AG SBAB BANK
+v0821,c43,SEB,c43-main,Privatkonto,checking,2026-07-28,-1353.00,MALMO STAD BARNOMSORG BG
+v0822,c43,SEB,c43-main,Privatkonto,checking,2026-07-30,2620.00,SWISH LEILA A HYRA
+v0823,c43,SEB,c43-kort,Kreditkort,credit_card,2026-07-31,-308.27,O'LEARYS MALMO
+v0824,c43,SEB,c43-kort,Kreditkort,credit_card,2026-07-31,-92.67,ESPRESSO HOUSE 3087
+v0825,c43,SEB,c43-main,Privatkonto,checking,2026-08-01,-290.00,AG FRISKIS&SVETTIS
+v0826,c43,SEB,c43-main,Privatkonto,checking,2026-08-02,-96.98,ESPRESSO HOUSE 1746 /26-08-01
+v0827,c43,SEB,c43-main,Privatkonto,checking,2026-08-02,480.00,SWISH HUGO I PIZZA
+v0828,c43,SEB,c43-main,Privatkonto,checking,2026-08-03,65.00,SWISH LUCAS I PIZZA
+v0829,c43,SEB,c43-main,Privatkonto,checking,2026-08-04,-520.00,SWISH MARIA D
+v0830,c43,SEB,c43-main,Privatkonto,checking,2026-08-04,-218.00,AG TELENOR SVERIGE
+v0831,c43,SEB,c43-main,Privatkonto,checking,2026-08-06,-795.00,SKANETRAFIKEN HYLLIE /26-08-03
+v0832,c43,SEB,c43-main,Privatkonto,checking,2026-08-06,-511.00,AG TELIA SVERIGE AB
+v0833,c43,SEB,c43-kort,Kreditkort,credit_card,2026-08-10,-313.73,COOP KONSUM LIMHAMN
+v0834,c43,SEB,c43-main,Privatkonto,checking,2026-08-13,-1152.11,GOTEBORG ENERGI BG
+v0835,c43,SEB,c43-kort,Kreditkort,credit_card,2026-08-15,-337.48,TAXI KURIR
+v0836,c43,SEB,c43-main,Privatkonto,checking,2026-08-17,-199.00,BOOKBEAT AB /26-08-16
+v0837,c43,SEB,c43-main,Privatkonto,checking,2026-08-18,-229.00,STORYTEL AB /26-08-16
+v0838,c43,SEB,c43-kort,Kreditkort,credit_card,2026-08-19,-308.56,UBER *TRIP HELP.UBER.COM
+v0839,c43,SEB,c43-kort,Kreditkort,credit_card,2026-08-19,-95.83,JOE & THE JUICE MALMO
+v0840,c43,SEB,c43-main,Privatkonto,checking,2026-08-20,2650.00,FÖRSÄKRINGSKASSAN
+v0841,c43,SEB,c43-kort,Kreditkort,credit_card,2026-08-21,-203.15,COOP KONSUM LIMHAMN
+v0842,c43,SEB,c43-main,Privatkonto,checking,2026-08-21,-6586.20,SEB KORT BG
+v0843,c43,SEB,c43-main,Privatkonto,checking,2026-08-23,-931.71,KLARNA BANK AB BG
+v0844,c43,SEB,c43-main,Privatkonto,checking,2026-08-23,-129.00,YOUTUBE PREMIUM /26-08-20
+v0845,c43,SEB,c43-kort,Kreditkort,credit_card,2026-08-25,-352.73,KJELL & CO MALMO
+v0846,c43,SEB,c43-main,Privatkonto,checking,2026-08-25,-400.00,EGEN ÖVERF RÄNTEKONTO
+v0847,c43,SEB,c43-main,Privatkonto,checking,2026-08-25,39200.00,LÖN SOLDALEN BAGERI AB
+v0848,c43,SEB,c43-spar,Räntekonto,savings,2026-08-25,400.00,EGEN ÖVERF PRIVATKONTO
+v0849,c43,SEB,c43-kort,Kreditkort,credit_card,2026-08-27,-1388.06,LIDL VASTRA HAMNEN
+v0850,c43,SEB,c43-kort,Kreditkort,credit_card,2026-08-27,-115.30,MCDONALDS MALMO MOLLEVANGEN
+v0851,c43,SEB,c43-kort,Kreditkort,credit_card,2026-08-27,6586.20,INBETALNING
+v0852,c43,SEB,c43-main,Privatkonto,checking,2026-08-27,-6730.00,BRF HAMNFYREN BG
+v0853,c43,SEB,c43-kort,Kreditkort,credit_card,2026-08-28,-780.71,H&M MALMO
+v0854,c43,SEB,c43-main,Privatkonto,checking,2026-08-28,-10650.00,AG SBAB BANK
+v0855,c43,SEB,c43-main,Privatkonto,checking,2026-08-28,-1402.00,MALMO STAD BARNOMSORG BG
+v0856,c43,SEB,c43-kort,Kreditkort,credit_card,2026-08-29,-739.88,ICA KVANTUM TRIANGELN
+v0857,c43,SEB,c43-kort,Kreditkort,credit_card,2026-08-30,-938.69,COOP KONSUM LIMHAMN
+v0858,c43,SEB,c43-main,Privatkonto,checking,2026-09-01,-290.00,AG FRISKIS&SVETTIS
+v0859,c43,SEB,c43-kort,Kreditkort,credit_card,2026-09-02,-1584.39,COOP KONSUM LIMHAMN
+v0860,c43,SEB,c43-kort,Kreditkort,credit_card,2026-09-03,-619.30,ZARA MALMO
+v0861,c43,SEB,c43-main,Privatkonto,checking,2026-09-03,-795.00,SKANETRAFIKEN VASTRA HAMNEN /26-09-02
+v0862,c43,SEB,c43-kort,Kreditkort,credit_card,2026-09-04,-69.47,JOE & THE JUICE MALMO
+v0863,c43,SEB,c43-main,Privatkonto,checking,2026-09-04,505.00,SWISH LUCAS I
+v0864,c43,SEB,c43-main,Privatkonto,checking,2026-09-05,-484.00,AG TELIA SVERIGE AB
+v0865,c43,SEB,c43-main,Privatkonto,checking,2026-09-05,-239.00,AG TELENOR SVERIGE
+v0866,c43,SEB,c43-kort,Kreditkort,credit_card,2026-09-06,-881.91,TEMPO JAGERSRO
+v0867,c43,SEB,c43-kort,Kreditkort,credit_card,2026-09-06,-685.30,TEMPO JAGERSRO
+v0868,c43,SEB,c43-kort,Kreditkort,credit_card,2026-09-06,-320.01,O'LEARYS MALMO
+v0869,c43,SEB,c43-kort,Kreditkort,credit_card,2026-09-08,-1591.14,COOP KONSUM LIMHAMN
+v0870,c43,SEB,c43-kort,Kreditkort,credit_card,2026-09-08,-195.77,RESTAURANG STRANDEN
+v0871,c43,SEB,c43-kort,Kreditkort,credit_card,2026-09-08,-73.25,COOP KONSUM LIMHAMN
+v0872,c43,SEB,c43-main,Privatkonto,checking,2026-09-08,-419.24,NELLY.COM /26-09-06
+v0873,c43,SEB,c43-main,Privatkonto,checking,2026-09-10,-395.52,GOTEBORG ENERGI BG
+v0874,c43,SEB,c43-main,Privatkonto,checking,2026-09-10,-165.00,SWISH THAI STALLET AB
+v0875,c43,SEB,c43-main,Privatkonto,checking,2026-09-11,-577.29,ICA KVANTUM TRIANGELN /26-09-10
+v0876,c43,SEB,c43-main,Privatkonto,checking,2026-09-11,-165.36,UBER *TRIP HELP.UBER.COM /26-09-09
+v0877,c43,SEB,c43-kort,Kreditkort,credit_card,2026-09-13,-52.16,ESPRESSO HOUSE 1314
+v0878,c43,SEB,c43-main,Privatkonto,checking,2026-09-16,-1112.73,COOP KONSUM LIMHAMN /26-09-13
+v0879,c43,SEB,c43-kort,Kreditkort,credit_card,2026-09-17,-151.21,SUMUP *BISTRO BRYGGAN
+v0880,c43,SEB,c43-main,Privatkonto,checking,2026-09-17,-1224.91,COOP TRIANGELN /26-09-14
+v0881,c43,SEB,c43-main,Privatkonto,checking,2026-09-17,-300.00,ATM HYLLIE
+v0882,c43,SEB,c43-main,Privatkonto,checking,2026-09-17,-199.00,BOOKBEAT AB /26-09-16
+v0883,c43,SEB,c43-kort,Kreditkort,credit_card,2026-09-18,-1515.58,ICA KVANTUM TRIANGELN
+v0884,c43,SEB,c43-main,Privatkonto,checking,2026-09-18,190.00,SWISH MARIA D
+v0885,c43,SEB,c43-main,Privatkonto,checking,2026-09-18,2650.00,FÖRSÄKRINGSKASSAN
+v0886,c43,SEB,c43-kort,Kreditkort,credit_card,2026-09-19,-480.78,O'LEARYS MALMO
+v0887,c43,SEB,c43-main,Privatkonto,checking,2026-09-19,-229.00,STORYTEL AB /26-09-16
+v0888,c43,SEB,c43-kort,Kreditkort,credit_card,2026-09-20,-537.15,KLARNA*CDON
+v0889,c43,SEB,c43-kort,Kreditkort,credit_card,2026-09-20,-213.66,SUSHI YAMA MALMO
+v0890,c43,SEB,c43-main,Privatkonto,checking,2026-09-20,-384.53,COOP KONSUM LIMHAMN /26-09-18
+v0891,c43,SEB,c43-main,Privatkonto,checking,2026-09-21,-129.00,YOUTUBE PREMIUM /26-09-20
+v0892,c43,SEB,c43-main,Privatkonto,checking,2026-09-22,-200.00,REGION SKANE PATIENTAVG BG
+v0893,c43,SEB,c43-main,Privatkonto,checking,2026-09-23,-5574.12,SEB KORT BG
+v0894,c43,SEB,c43-kort,Kreditkort,credit_card,2026-09-24,5574.12,INBETALNING
+v0895,c43,SEB,c43-main,Privatkonto,checking,2026-09-24,280.00,SWISH HUGO I
+v0896,c43,SEB,c43-main,Privatkonto,checking,2026-09-25,-2500.00,EGEN ÖVERF RÄNTEKONTO
+v0897,c43,SEB,c43-main,Privatkonto,checking,2026-09-25,-119.41,COOP TRIANGELN /26-09-22
+v0898,c43,SEB,c43-main,Privatkonto,checking,2026-09-25,39200.00,LÖN
+v0899,c43,SEB,c43-spar,Räntekonto,savings,2026-09-25,2500.00,EGEN ÖVERF PRIVATKONTO
+v0900,c43,SEB,c43-kort,Kreditkort,credit_card,2026-09-26,-70.72,ESPRESSO HOUSE 3551
+v0901,c43,SEB,c43-kort,Kreditkort,credit_card,2026-09-27,-457.08,TAXI KURIR
+v0902,c43,SEB,c43-kort,Kreditkort,credit_card,2026-09-27,-165.90,RESTAURANG STRANDEN
+v0903,c43,SEB,c43-main,Privatkonto,checking,2026-09-27,-6730.00,BRF HAMNFYREN BG
+v0904,c43,SEB,c43-kort,Kreditkort,credit_card,2026-09-28,-150.79,KRONANS APOTEK MOLLEVANGEN
+v0905,c43,SEB,c43-main,Privatkonto,checking,2026-09-28,-10650.00,AG SBAB BANK
+v0906,c43,SEB,c43-main,Privatkonto,checking,2026-09-28,-1680.00,MALMO STAD BARNOMSORG BG
+v0907,c43,SEB,c43-main,Privatkonto,checking,2026-09-29,-1270.00,TANDLAKARNA I CITY BG
+v0908,c43,SEB,c43-kort,Kreditkort,credit_card,2026-09-30,-122.09,ICA KVANTUM TRIANGELN
+v0909,c43,SEB,c43-main,Privatkonto,checking,2026-10-01,-290.00,AG FRISKIS&SVETTIS
+v0910,c43,SEB,c43-main,Privatkonto,checking,2026-10-02,-157.17,MCDONALDS MALMO JAGERSRO /26-09-30
+v0911,c43,SEB,c43-main,Privatkonto,checking,2026-10-03,-795.00,SKANETRAFIKEN MOLLEVANGEN /26-10-02
+v0912,c43,SEB,c43-main,Privatkonto,checking,2026-10-03,-136.00,AG TELENOR SVERIGE
+v0913,c43,SEB,c43-kort,Kreditkort,credit_card,2026-10-04,-1035.70,ZARA MALMO
+v0914,c43,SEB,c43-main,Privatkonto,checking,2026-10-05,-401.00,AG TELIA SVERIGE AB
+v0915,c43,SEB,c43-kort,Kreditkort,credit_card,2026-10-07,-345.41,LIDL VASTRA HAMNEN
+v0916,c43,SEB,c43-main,Privatkonto,checking,2026-10-08,-1443.43,COOP TRIANGELN /26-10-05
+v0917,c43,SEB,c43-main,Privatkonto,checking,2026-10-08,-101.31,ESPRESSO HOUSE 1784 /26-10-05
+v0918,c43,SEB,c43-kort,Kreditkort,credit_card,2026-10-09,-199.82,RESTAURANG PARKEN
+v0919,c43,SEB,c43-kort,Kreditkort,credit_card,2026-10-09,-55.97,SUMUP *BISTRO BRYGGAN
+v0920,c43,SEB,c43-kort,Kreditkort,credit_card,2026-10-10,-176.06,SUSHI YAMA MALMO
+v0921,c43,SEB,c43-kort,Kreditkort,credit_card,2026-10-11,-132.15,SUMUP *BISTRO BRYGGAN
+v0922,c43,SEB,c43-kort,Kreditkort,credit_card,2026-10-12,-341.97,LIDL VASTRA HAMNEN
+v0923,c43,SEB,c43-main,Privatkonto,checking,2026-10-12,-1137.69,GOTEBORG ENERGI BG
+v0924,c43,SEB,c43-main,Privatkonto,checking,2026-10-12,-293.64,LIDL VASTRA HAMNEN /26-10-10
+v0925,c43,SEB,c43-main,Privatkonto,checking,2026-10-13,-145.55,IZ *BAR ORANGERIET /26-10-10
+v0926,c43,SEB,c43-main,Privatkonto,checking,2026-10-16,-251.77,UBER *TRIP HELP.UBER.COM /26-10-14
+v0927,c43,SEB,c43-kort,Kreditkort,credit_card,2026-10-17,-82.25,IZ *BAR ORANGERIET
+v0928,c43,SEB,c43-main,Privatkonto,checking,2026-10-18,-229.00,STORYTEL AB /26-10-16
+v0929,c43,SEB,c43-main,Privatkonto,checking,2026-10-18,-199.00,BOOKBEAT AB /26-10-16
+v0930,c43,SEB,c43-kort,Kreditkort,credit_card,2026-10-19,-1583.30,TEMPO JAGERSRO
+v0931,c43,SEB,c43-kort,Kreditkort,credit_card,2026-10-19,-302.68,O'LEARYS MALMO
+v0932,c43,SEB,c43-kort,Kreditkort,credit_card,2026-10-20,-114.30,MCDONALDS MALMO JAGERSRO
+v0933,c43,SEB,c43-main,Privatkonto,checking,2026-10-20,2650.00,FÖRSÄKRINGSKASSAN
+v0934,c43,SEB,c43-main,Privatkonto,checking,2026-10-21,-861.23,COOP KONSUM LIMHAMN /26-10-20
+v0935,c43,SEB,c43-main,Privatkonto,checking,2026-10-21,-129.00,YOUTUBE PREMIUM /26-10-20
+v0936,c43,SEB,c43-kort,Kreditkort,credit_card,2026-10-22,-154.52,TEMPO JAGERSRO
+v0937,c43,SEB,c43-main,Privatkonto,checking,2026-10-22,-9937.66,SEB KORT BG
+v0938,c43,SEB,c43-main,Privatkonto,checking,2026-10-23,-1400.00,EGEN ÖVERF RÄNTEKONTO
+v0939,c43,SEB,c43-main,Privatkonto,checking,2026-10-23,39200.00,LÖN
+v0940,c43,SEB,c43-spar,Räntekonto,savings,2026-10-23,1400.00,EGEN ÖVERF PRIVATKONTO
+v0941,c43,SEB,c43-kort,Kreditkort,credit_card,2026-10-24,9937.66,INBETALNING
+v0942,c43,SEB,c43-main,Privatkonto,checking,2026-10-24,-118.78,COOP TRIANGELN /26-10-22
+v0943,c43,SEB,c43-main,Privatkonto,checking,2026-10-24,635.00,SWISH LUCAS I
+v0944,c43,SEB,c43-kort,Kreditkort,credit_card,2026-10-25,-138.58,RESTAURANG FIKARUMMET
+v0945,c43,SEB,c43-kort,Kreditkort,credit_card,2026-10-25,-28.91,VOI TECHNOLOGY AB
+v0946,c43,SEB,c43-main,Privatkonto,checking,2026-10-25,-505.00,SWISH LEILA A MAT
+v0947,c43,SEB,c43-main,Privatkonto,checking,2026-10-27,-6730.00,BRF HAMNFYREN BG
+v0948,c43,SEB,c43-kort,Kreditkort,credit_card,2026-10-28,-1030.78,BYGGMAX MALMO
+v0949,c43,SEB,c43-kort,Kreditkort,credit_card,2026-10-28,-89.92,ESPRESSO HOUSE 2491
+v0950,c43,SEB,c43-main,Privatkonto,checking,2026-10-28,-10650.00,AG SBAB BANK
+v0951,c43,SEB,c43-main,Privatkonto,checking,2026-10-28,-1556.00,MALMO STAD BARNOMSORG BG
+v0952,c43,SEB,c43-main,Privatkonto,checking,2026-10-28,-1025.03,ICA KVANTUM TRIANGELN /26-10-27
+v0953,c43,SEB,c43-kort,Kreditkort,credit_card,2026-10-29,-154.24,APOTEK HJARTAT LIMHAMN
+v0954,c43,SEB,c43-main,Privatkonto,checking,2026-10-30,-275.00,SWISH MARIA D
+v0955,c43,SEB,c43-kort,Kreditkort,credit_card,2026-10-31,-196.24,FILMSTADEN MALMO
+v0956,c43,SEB,c43-main,Privatkonto,checking,2026-10-31,-500.00,ATM BANKOMAT MALMO
+v0957,c43,SEB,c43-spar,Räntekonto,savings,2026-10-31,382.72,RÄNTA
+v0958,c44,Nordea,c44-kort,Mastercard,credit_card,2026-05-03,-237.31,O'LEARYS STHLM
+v0959,c44,Nordea,c44-main,Personkonto,checking,2026-05-03,-233.00,Autogiro HI3G ACCESS (TRE)
+v0960,c44,Nordea,c44-main,Personkonto,checking,2026-05-04,-795.47,Kortköp 260502 MATHEM.SE
+v0961,c44,Nordea,c44-kort,Mastercard,credit_card,2026-05-05,-175.69,MAX STHLM
+v0962,c44,Nordea,c44-kort,Mastercard,credit_card,2026-05-07,-1399.40,KLARNA*JULA
+v0963,c44,Nordea,c44-kort,Mastercard,credit_card,2026-05-08,-117.53,WAYNES COFFEE STHLM
+v0964,c44,Nordea,c44-main,Personkonto,checking,2026-05-08,-208.01,Kortköp 260507 GOOGLE *GOOGLE PLAY
+v0965,c44,Nordea,c44-kort,Mastercard,credit_card,2026-05-12,-398.55,OKQ8 BROMMA
+v0966,c44,Nordea,c44-kort,Mastercard,credit_card,2026-05-12,-166.45,IZ *FIKA TORGET
+v0967,c44,Nordea,c44-kort,Mastercard,credit_card,2026-05-13,-355.78,MATHEM.SE
+v0968,c44,Nordea,c44-main,Personkonto,checking,2026-05-14,-250.74,Betalning BG E.ON ENERGILOSNINGAR
+v0969,c44,Nordea,c44-kort,Mastercard,credit_card,2026-05-15,-127.60,SUMUP *FOODTRUCK BRYGGAN
+v0970,c44,Nordea,c44-main,Personkonto,checking,2026-05-17,-90.00,Swish betalning ELLA Q biljetter
+v0971,c44,Nordea,c44-kort,Mastercard,credit_card,2026-05-18,-399.08,UBER *TRIP HELP.UBER.COM
+v0972,c44,Nordea,c44-main,Personkonto,checking,2026-05-18,-229.00,Kortköp 260516 STORYTEL AB
+v0973,c44,Nordea,c44-main,Personkonto,checking,2026-05-19,-149.00,Kortköp 260516 NETFLIX.COM
+v0974,c44,Nordea,c44-kort,Mastercard,credit_card,2026-05-20,-722.35,ST1 FARSTA
+v0975,c44,Nordea,c44-kort,Mastercard,credit_card,2026-05-25,-342.05,MATSMART.SE
+v0976,c44,Nordea,c44-main,Personkonto,checking,2026-05-25,42100.00,LÖN
+v0977,c44,Nordea,c44-main,Personkonto,checking,2026-05-26,-1870.00,Betalning BG NORDAX BANK AB
+v0978,c44,Nordea,c44-main,Personkonto,checking,2026-05-27,-6220.00,Betalning BG AKELIUS LAGENHETER
+v0979,c44,Nordea,c44-main,Personkonto,checking,2026-05-27,-250.00,Swish betalning MAJA N
+v0980,c44,Nordea,c44-kort,Mastercard,credit_card,2026-05-28,-110.98,MATSMART.SE
+v0981,c44,Nordea,c44-main,Personkonto,checking,2026-05-28,-2700.00,Autogiro ANYFIN AB
+v0982,c44,Nordea,c44-kort,Mastercard,credit_card,2026-05-30,-730.33,ST1 VASASTAN
+v0983,c44,Nordea,c44-main,Personkonto,checking,2026-05-30,-65.68,Kortköp 260528 APCOA FLOW
+v0984,c44,Nordea,c44-main,Personkonto,checking,2026-06-01,-176.75,Kortköp 260531 MAX STHLM
+v0985,c44,Nordea,c44-kort,Mastercard,credit_card,2026-06-02,-20.79,EASYPARK
+v0986,c44,Nordea,c44-kort,Mastercard,credit_card,2026-06-03,-272.54,O'LEARYS STHLM
+v0987,c44,Nordea,c44-kort,Mastercard,credit_card,2026-06-03,-271.60,O'LEARYS STHLM
+v0988,c44,Nordea,c44-main,Personkonto,checking,2026-06-04,-294.00,Autogiro HI3G ACCESS (TRE)
+v0989,c44,Nordea,c44-kort,Mastercard,credit_card,2026-06-05,-405.72,MATSMART.SE
+v0990,c44,Nordea,c44-kort,Mastercard,credit_card,2026-06-05,-95.96,COOP KONSUM SOLNA
+v0991,c44,Nordea,c44-kort,Mastercard,credit_card,2026-06-05,-65.03,WAYNES COFFEE STHLM
+v0992,c44,Nordea,c44-main,Personkonto,checking,2026-06-05,-79.69,Kortköp 260603 WAYNES COFFEE STHLM
+v0993,c44,Nordea,c44-kort,Mastercard,credit_card,2026-06-06,-449.02,COOP KONSUM SOLNA
+v0994,c44,Nordea,c44-main,Personkonto,checking,2026-06-06,-481.45,Kortköp 260603 GOOGLE *GOOGLE PLAY
+v0995,c44,Nordea,c44-main,Personkonto,checking,2026-06-07,-106.32,Kortköp 260604 MAX STHLM
+v0996,c44,Nordea,c44-main,Personkonto,checking,2026-06-08,-283.60,Kortköp 260605 MATHEM.SE
+v0997,c44,Nordea,c44-kort,Mastercard,credit_card,2026-06-09,-442.46,APOTEK HJARTAT BROMMA
+v0998,c44,Nordea,c44-main,Personkonto,checking,2026-06-09,-205.62,Kortköp 260608 TAXI KURIR
+v0999,c44,Nordea,c44-main,Personkonto,checking,2026-06-09,175.00,Swish inbetalning MAJA N lunch
+v1000,c44,Nordea,c44-kort,Mastercard,credit_card,2026-06-10,-414.57,COOP KONSUM SOLNA
+v1001,c44,Nordea,c44-kort,Mastercard,credit_card,2026-06-10,-350.23,UBER *TRIP HELP.UBER.COM
+v1002,c44,Nordea,c44-main,Personkonto,checking,2026-06-12,-165.00,Swish betalning ELLA Q pizza
+v1003,c44,Nordea,c44-main,Personkonto,checking,2026-06-13,-875.00,Swish betalning MAJA N
+v1004,c44,Nordea,c44-main,Personkonto,checking,2026-06-15,-2121.53,Kortköp 260613 NETONNET STHLM
+v1005,c44,Nordea,c44-main,Personkonto,checking,2026-06-15,-1353.52,Betalning BG E.ON ENERGILOSNINGAR
+v1006,c44,Nordea,c44-kort,Mastercard,credit_card,2026-06-16,-741.70,ST1 FARSTA
+v1007,c44,Nordea,c44-kort,Mastercard,credit_card,2026-06-17,-643.69,OKQ8 ODENPLAN
+v1008,c44,Nordea,c44-main,Personkonto,checking,2026-06-18,-335.11,Kortköp 260616 MATSMART.SE
+v1009,c44,Nordea,c44-main,Personkonto,checking,2026-06-18,-179.35,Kortköp 260616 MAX STHLM
+v1010,c44,Nordea,c44-main,Personkonto,checking,2026-06-18,-149.00,Kortköp 260616 NETFLIX.COM
+v1011,c44,Nordea,c44-main,Personkonto,checking,2026-06-19,-229.00,Kortköp 260616 STORYTEL AB
+v1012,c44,Nordea,c44-kort,Mastercard,credit_card,2026-06-20,-1469.17,IKEA STHLM
+v1013,c44,Nordea,c44-main,Personkonto,checking,2026-06-21,-5283.10,Betalning BG NORDEA KREDITKORT
+v1014,c44,Nordea,c44-main,Personkonto,checking,2026-06-21,-528.27,Kortköp 260618 ICA NARA ODENPLAN
+v1015,c44,Nordea,c44-kort,Mastercard,credit_card,2026-06-22,-206.86,CITY GROSS STHLM
+v1016,c44,Nordea,c44-main,Personkonto,checking,2026-06-22,-362.52,Kortköp 260620 COOP KONSUM SOLNA
+v1017,c44,Nordea,c44-main,Personkonto,checking,2026-06-22,-122.24,Kortköp 260621 MAX STHLM
+v1018,c44,Nordea,c44-kort,Mastercard,credit_card,2026-06-23,-99.32,MAX STHLM
+v1019,c44,Nordea,c44-kort,Mastercard,credit_card,2026-06-24,5283.10,INBETALNING
+v1020,c44,Nordea,c44-kort,Mastercard,credit_card,2026-06-25,-273.74,COOP KONSUM SOLNA
+v1021,c44,Nordea,c44-main,Personkonto,checking,2026-06-25,42100.00,LÖN
+v1022,c44,Nordea,c44-kort,Mastercard,credit_card,2026-06-26,-856.36,ICA NARA ODENPLAN
+v1023,c44,Nordea,c44-main,Personkonto,checking,2026-06-26,-3080.00,Betalning BG NORDAX BANK AB
+v1024,c44,Nordea,c44-main,Personkonto,checking,2026-06-26,-2880.00,Autogiro ANYFIN AB
+v1025,c44,Nordea,c44-kort,Mastercard,credit_card,2026-06-27,-22.33,PARKSTER
+v1026,c44,Nordea,c44-main,Personkonto,checking,2026-06-27,-6220.00,Betalning BG AKELIUS LAGENHETER
+v1027,c44,Nordea,c44-kort,Mastercard,credit_card,2026-06-28,-445.00,LISEBERG AB
+v1028,c44,Nordea,c44-kort,Mastercard,credit_card,2026-06-30,-43.39,AIMO PARK
+v1029,c44,Nordea,c44-kort,Mastercard,credit_card,2026-07-04,-106.08,MAX STHLM
+v1030,c44,Nordea,c44-main,Personkonto,checking,2026-07-04,-3472.95,Kortköp 260703 NETONNET STHLM
+v1031,c44,Nordea,c44-main,Personkonto,checking,2026-07-05,-101.00,Autogiro HI3G ACCESS (TRE)
+v1032,c44,Nordea,c44-main,Personkonto,checking,2026-07-05,215.00,Swish inbetalning MAJA D biljetter
+v1033,c44,Nordea,c44-kort,Mastercard,credit_card,2026-07-06,-777.90,MATHEM.SE
+v1034,c44,Nordea,c44-kort,Mastercard,credit_card,2026-07-06,-208.39,PIZZA HUT STHLM
+v1035,c44,Nordea,c44-kort,Mastercard,credit_card,2026-07-06,-75.78,EASYPARK
+v1036,c44,Nordea,c44-kort,Mastercard,credit_card,2026-07-08,-333.88,SF BIO STHLM
+v1037,c44,Nordea,c44-kort,Mastercard,credit_card,2026-07-09,-406.28,COOP KONSUM SOLNA
+v1038,c44,Nordea,c44-kort,Mastercard,credit_card,2026-07-11,-599.73,MATSMART.SE
+v1039,c44,Nordea,c44-main,Personkonto,checking,2026-07-13,3472.95,Kortköp 260712 NETONNET STHLM
+v1040,c44,Nordea,c44-kort,Mastercard,credit_card,2026-07-16,-228.45,UBER *TRIP HELP.UBER.COM
+v1041,c44,Nordea,c44-kort,Mastercard,credit_card,2026-07-17,-924.08,INGO BROMMA
+v1042,c44,Nordea,c44-main,Personkonto,checking,2026-07-17,-954.85,Betalning BG E.ON ENERGILOSNINGAR
+v1043,c44,Nordea,c44-main,Personkonto,checking,2026-07-18,-229.00,Kortköp 260716 STORYTEL AB
+v1044,c44,Nordea,c44-main,Personkonto,checking,2026-07-18,-149.00,Kortköp 260716 NETFLIX.COM
+v1045,c44,Nordea,c44-kort,Mastercard,credit_card,2026-07-19,-133.38,BOLT.EU/O/2605
+v1046,c44,Nordea,c44-main,Personkonto,checking,2026-07-19,-7589.48,Betalning BG NORDEA KREDITKORT
+v1047,c44,Nordea,c44-kort,Mastercard,credit_card,2026-07-20,-788.71,CITY GROSS STHLM
+v1048,c44,Nordea,c44-kort,Mastercard,credit_card,2026-07-20,-321.95,MATHEM.SE
+v1049,c44,Nordea,c44-main,Personkonto,checking,2026-07-21,-852.97,Kortköp 260718 MATSMART.SE
+v1050,c44,Nordea,c44-kort,Mastercard,credit_card,2026-07-22,-662.70,NETONNET STHLM
+v1051,c44,Nordea,c44-main,Personkonto,checking,2026-07-22,-105.00,Swish betalning LUNCHKOMPANIET AB
+v1052,c44,Nordea,c44-main,Personkonto,checking,2026-07-24,-564.47,Kortköp 260723 ST1 SOLNA
+v1053,c44,Nordea,c44-main,Personkonto,checking,2026-07-24,45000.00,LÖN
+v1054,c44,Nordea,c44-kort,Mastercard,credit_card,2026-07-25,-779.06,MATHEM.SE
+v1055,c44,Nordea,c44-main,Personkonto,checking,2026-07-25,-65.00,Swish betalning HUGO Z el
+v1056,c44,Nordea,c44-kort,Mastercard,credit_card,2026-07-26,7589.48,INBETALNING
+v1057,c44,Nordea,c44-main,Personkonto,checking,2026-07-26,-2840.00,Autogiro ANYFIN AB
+v1058,c44,Nordea,c44-main,Personkonto,checking,2026-07-27,-6220.00,Betalning BG AKELIUS LAGENHETER
+v1059,c44,Nordea,c44-main,Personkonto,checking,2026-07-28,-2710.00,Autogiro NORDAX BANK AB
+v1060,c44,Nordea,c44-main,Personkonto,checking,2026-07-28,-288.66,Kortköp 260726 MATHEM.SE
+v1061,c44,Nordea,c44-main,Personkonto,checking,2026-07-29,-225.47,Kortköp 260727 APOTEK HJARTAT SOLNA
+v1062,c44,Nordea,c44-main,Personkonto,checking,2026-07-30,-280.34,Kortköp 260728 ZARA STHLM
+v1063,c44,Nordea,c44-main,Personkonto,checking,2026-07-30,-76.73,Kortköp 260728 WAYNES COFFEE STHLM
+v1064,c44,Nordea,c44-kort,Mastercard,credit_card,2026-07-31,-608.04,MATHEM.SE
+v1065,c44,Nordea,c44-kort,Mastercard,credit_card,2026-08-01,-133.37,SUMUP *FOODTRUCK BRYGGAN
+v1066,c44,Nordea,c44-kort,Mastercard,credit_card,2026-08-01,-22.30,APCOA FLOW
+v1067,c44,Nordea,c44-kort,Mastercard,credit_card,2026-08-03,-3419.22,IKEA STHLM
+v1068,c44,Nordea,c44-kort,Mastercard,credit_card,2026-08-03,-787.91,MATHEM.SE
+v1069,c44,Nordea,c44-kort,Mastercard,credit_card,2026-08-03,-458.09,ICA NARA ODENPLAN
+v1070,c44,Nordea,c44-main,Personkonto,checking,2026-08-05,-177.00,Autogiro HI3G ACCESS (TRE)
+v1071,c44,Nordea,c44-kort,Mastercard,credit_card,2026-08-06,-23.22,TIER MOBILITY
+v1072,c44,Nordea,c44-main,Personkonto,checking,2026-08-06,-484.98,Kortköp 260804 PREEM SOLNA
+v1073,c44,Nordea,c44-kort,Mastercard,credit_card,2026-08-07,-221.31,MATSMART.SE
+v1074,c44,Nordea,c44-main,Personkonto,checking,2026-08-08,-136.86,Kortköp 260806 MATSMART.SE
+v1075,c44,Nordea,c44-kort,Mastercard,credit_card,2026-08-09,-123.28,EASYPARK
+v1076,c44,Nordea,c44-kort,Mastercard,credit_card,2026-08-09,-110.70,MAX STHLM
+v1077,c44,Nordea,c44-kort,Mastercard,credit_card,2026-08-10,-111.08,SUMUP *FOODTRUCK BRYGGAN
+v1078,c44,Nordea,c44-kort,Mastercard,credit_card,2026-08-11,-356.59,PIZZA HUT STHLM
+v1079,c44,Nordea,c44-main,Personkonto,checking,2026-08-11,-633.95,Kortköp 260810 KLARNA*NELLY
+v1080,c44,Nordea,c44-kort,Mastercard,credit_card,2026-08-12,-382.74,COOP KONSUM SOLNA
+v1081,c44,Nordea,c44-main,Personkonto,checking,2026-08-12,-3211.41,Kortköp 260810 NETONNET STHLM
+v1082,c44,Nordea,c44-main,Personkonto,checking,2026-08-12,-984.55,Betalning BG E.ON ENERGILOSNINGAR
+v1083,c44,Nordea,c44-main,Personkonto,checking,2026-08-12,-629.70,Kortköp 260809 ICA NARA ODENPLAN
+v1084,c44,Nordea,c44-kort,Mastercard,credit_card,2026-08-13,-36.48,PARKSTER
+v1085,c44,Nordea,c44-main,Personkonto,checking,2026-08-14,-380.72,Kortköp 260813 PIZZA HUT STHLM
+v1086,c44,Nordea,c44-kort,Mastercard,credit_card,2026-08-16,-313.88,PIZZA HUT STHLM
+v1087,c44,Nordea,c44-main,Personkonto,checking,2026-08-18,-455.00,Swish betalning MAJA N
+v1088,c44,Nordea,c44-main,Personkonto,checking,2026-08-18,-229.00,Kortköp 260816 STORYTEL AB
+v1089,c44,Nordea,c44-main,Personkonto,checking,2026-08-19,-149.00,Kortköp 260816 NETFLIX.COM
+v1090,c44,Nordea,c44-main,Personkonto,checking,2026-08-20,-700.00,Swish betalning HUGO Z
+v1091,c44,Nordea,c44-main,Personkonto,checking,2026-08-22,-461.34,Kortköp 260820 MATHEM.SE
+v1092,c44,Nordea,c44-main,Personkonto,checking,2026-08-22,-445.99,Kortköp 260821 O'LEARYS STHLM
+v1093,c44,Nordea,c44-main,Personkonto,checking,2026-08-23,-6954.41,Betalning BG NORDEA KREDITKORT
+v1094,c44,Nordea,c44-kort,Mastercard,credit_card,2026-08-24,-753.09,MATSMART.SE
+v1095,c44,Nordea,c44-kort,Mastercard,credit_card,2026-08-24,-698.92,MATHEM.SE
+v1096,c44,Nordea,c44-kort,Mastercard,credit_card,2026-08-24,-195.13,ICA NARA ODENPLAN
+v1097,c44,Nordea,c44-main,Personkonto,checking,2026-08-24,765.00,Swish inbetalning HUGO Z
+v1098,c44,Nordea,c44-kort,Mastercard,credit_card,2026-08-25,6954.41,INBETALNING TACK
+v1099,c44,Nordea,c44-main,Personkonto,checking,2026-08-25,44500.00,LÖN TALLUDDEN SKOLA AB
+v1100,c44,Nordea,c44-kort,Mastercard,credit_card,2026-08-26,-795.19,INGO FARSTA
+v1101,c44,Nordea,c44-kort,Mastercard,credit_card,2026-08-27,-765.70,MATSMART.SE
+v1102,c44,Nordea,c44-main,Personkonto,checking,2026-08-27,-6220.00,Betalning BG AKELIUS LAGENHETER
+v1103,c44,Nordea,c44-main,Personkonto,checking,2026-08-27,-2060.00,Betalning BG NORDAX BANK AB
+v1104,c44,Nordea,c44-kort,Mastercard,credit_card,2026-08-28,-279.17,MATHEM.SE
+v1105,c44,Nordea,c44-main,Personkonto,checking,2026-08-28,-3980.00,Betalning BG ANYFIN AB
+v1106,c44,Nordea,c44-main,Personkonto,checking,2026-09-01,-311.30,Kortköp 260829 CITY GROSS STHLM
+v1107,c44,Nordea,c44-kort,Mastercard,credit_card,2026-09-03,-142.61,ICA NARA ODENPLAN
+v1108,c44,Nordea,c44-main,Personkonto,checking,2026-09-03,-380.00,Autogiro HI3G ACCESS (TRE)
+v1109,c44,Nordea,c44-main,Personkonto,checking,2026-09-04,-725.85,Kortköp 260903 MATHEM.SE
+v1110,c44,Nordea,c44-main,Personkonto,checking,2026-09-04,-386.28,Kortköp 260902 O'LEARYS STHLM
+v1111,c44,Nordea,c44-kort,Mastercard,credit_card,2026-09-05,-738.16,ST1 HAMMARBY
+v1112,c44,Nordea,c44-main,Personkonto,checking,2026-09-06,295.00,Swish inbetalning MAJA N biljetter
+v1113,c44,Nordea,c44-kort,Mastercard,credit_card,2026-09-08,-26.48,AIMO PARK
+v1114,c44,Nordea,c44-kort,Mastercard,credit_card,2026-09-09,-97.93,BOLT.EU/O/2605
+v1115,c44,Nordea,c44-kort,Mastercard,credit_card,2026-09-10,-292.08,MATSMART.SE
+v1116,c44,Nordea,c44-kort,Mastercard,credit_card,2026-09-10,-285.30,O'LEARYS STHLM
+v1117,c44,Nordea,c44-kort,Mastercard,credit_card,2026-09-10,-100.80,EASYPARK
+v1118,c44,Nordea,c44-main,Personkonto,checking,2026-09-11,-671.42,Kortköp 260910 CITY GROSS STHLM
+v1119,c44,Nordea,c44-kort,Mastercard,credit_card,2026-09-12,-156.63,CITY GROSS STHLM
+v1120,c44,Nordea,c44-kort,Mastercard,credit_card,2026-09-12,-131.12,CITY GROSS STHLM
+v1121,c44,Nordea,c44-kort,Mastercard,credit_card,2026-09-12,-117.09,MAX STHLM
+v1122,c44,Nordea,c44-main,Personkonto,checking,2026-09-14,-339.67,Betalning BG E.ON ENERGILOSNINGAR
+v1123,c44,Nordea,c44-kort,Mastercard,credit_card,2026-09-17,-400.43,MATHEM.SE
+v1124,c44,Nordea,c44-kort,Mastercard,credit_card,2026-09-17,-181.58,PIZZA HUT STHLM
+v1125,c44,Nordea,c44-main,Personkonto,checking,2026-09-17,-368.25,Kortköp 260915 ICA NARA ODENPLAN
+v1126,c44,Nordea,c44-main,Personkonto,checking,2026-09-17,-149.00,Kortköp 260916 NETFLIX.COM
+v1127,c44,Nordea,c44-main,Personkonto,checking,2026-09-18,-711.33,Kortköp 260916 MATHEM.SE
+v1128,c44,Nordea,c44-main,Personkonto,checking,2026-09-19,-229.00,Kortköp 260916 STORYTEL AB
+v1129,c44,Nordea,c44-main,Personkonto,checking,2026-09-20,-9987.37,Betalning BG NORDEA KREDITKORT
+v1130,c44,Nordea,c44-kort,Mastercard,credit_card,2026-09-21,-195.93,MATHEM.SE
+v1131,c44,Nordea,c44-main,Personkonto,checking,2026-09-21,-100.00,Swish betalning LUNCHKOMPANIET AB
+v1132,c44,Nordea,c44-main,Personkonto,checking,2026-09-21,-95.48,Kortköp 260919 IZ *FIKA TORGET
+v1133,c44,Nordea,c44-kort,Mastercard,credit_card,2026-09-23,-448.78,PREEM BROMMA
+v1134,c44,Nordea,c44-kort,Mastercard,credit_card,2026-09-24,9987.37,INBETALNING TACK
+v1135,c44,Nordea,c44-main,Personkonto,checking,2026-09-25,45300.00,LÖN
+v1136,c44,Nordea,c44-main,Personkonto,checking,2026-09-26,-3330.00,Betalning BG ANYFIN AB
+v1137,c44,Nordea,c44-main,Personkonto,checking,2026-09-26,-147.90,Kortköp 260924 ICA NARA ODENPLAN
+v1138,c44,Nordea,c44-main,Personkonto,checking,2026-09-26,570.00,Swish inbetalning ELLA Q
+v1139,c44,Nordea,c44-kort,Mastercard,credit_card,2026-09-27,-769.17,COOP KONSUM SOLNA
+v1140,c44,Nordea,c44-main,Personkonto,checking,2026-09-27,-6220.00,Betalning BG AKELIUS LAGENHETER
+v1141,c44,Nordea,c44-main,Personkonto,checking,2026-09-27,-3260.00,Autogiro NORDAX BANK AB
+v1142,c44,Nordea,c44-kort,Mastercard,credit_card,2026-09-30,-1237.71,KLARNA*JULA
+v1143,c44,Nordea,c44-main,Personkonto,checking,2026-09-30,-115.72,Kortköp 260929 WAYNES COFFEE STHLM
+v1144,c44,Nordea,c44-kort,Mastercard,credit_card,2026-10-01,-68.52,CITY GROSS STHLM
+v1145,c44,Nordea,c44-kort,Mastercard,credit_card,2026-10-02,-101.38,IZ *FIKA TORGET
+v1146,c44,Nordea,c44-kort,Mastercard,credit_card,2026-10-06,-748.85,CIRCLE K SOLNA
+v1147,c44,Nordea,c44-kort,Mastercard,credit_card,2026-10-06,-523.13,MATSMART.SE
+v1148,c44,Nordea,c44-kort,Mastercard,credit_card,2026-10-07,-200.33,TAXI KURIR
+v1149,c44,Nordea,c44-main,Personkonto,checking,2026-10-07,-419.00,Autogiro HI3G ACCESS (TRE)
+v1150,c44,Nordea,c44-main,Personkonto,checking,2026-10-07,685.00,Swish inbetalning ELLA Q
+v1151,c44,Nordea,c44-kort,Mastercard,credit_card,2026-10-08,-824.77,COOP KONSUM SOLNA
+v1152,c44,Nordea,c44-kort,Mastercard,credit_card,2026-10-08,-325.67,MATSMART.SE
+v1153,c44,Nordea,c44-main,Personkonto,checking,2026-10-08,-358.34,Kortköp 261007 ICA NARA ODENPLAN
+v1154,c44,Nordea,c44-kort,Mastercard,credit_card,2026-10-09,-852.94,COOP KONSUM SOLNA
+v1155,c44,Nordea,c44-kort,Mastercard,credit_card,2026-10-11,-711.19,CITY GROSS STHLM
+v1156,c44,Nordea,c44-kort,Mastercard,credit_card,2026-10-11,-65.60,EASYPARK
+v1157,c44,Nordea,c44-main,Personkonto,checking,2026-10-11,-318.45,Kortköp 261008 PIZZA HUT STHLM
+v1158,c44,Nordea,c44-main,Personkonto,checking,2026-10-12,-400.04,Kortköp 261010 ADLIBRIS
+v1159,c44,Nordea,c44-main,Personkonto,checking,2026-10-12,-120.00,Swish betalning LUNCHKOMPANIET AB
+v1160,c44,Nordea,c44-kort,Mastercard,credit_card,2026-10-14,-768.23,PREEM SOLNA
+v1161,c44,Nordea,c44-kort,Mastercard,credit_card,2026-10-14,-49.07,WAYNES COFFEE STHLM
+v1162,c44,Nordea,c44-kort,Mastercard,credit_card,2026-10-14,-46.64,TIER MOBILITY
+v1163,c44,Nordea,c44-main,Personkonto,checking,2026-10-15,-622.80,Kortköp 261012 ICA NARA ODENPLAN
+v1164,c44,Nordea,c44-main,Personkonto,checking,2026-10-16,-1132.52,Betalning BG E.ON ENERGILOSNINGAR
+v1165,c44,Nordea,c44-kort,Mastercard,credit_card,2026-10-17,-249.77,CITY GROSS STHLM
+v1166,c44,Nordea,c44-main,Personkonto,checking,2026-10-17,-149.00,Kortköp 261016 NETFLIX.COM
+v1167,c44,Nordea,c44-main,Personkonto,checking,2026-10-17,180.00,Swish inbetalning MAJA N
+v1168,c44,Nordea,c44-main,Personkonto,checking,2026-10-18,-229.00,Kortköp 261016 STORYTEL AB
+v1169,c44,Nordea,c44-main,Personkonto,checking,2026-10-20,-5321.80,Betalning BG NORDEA KREDITKORT
+v1170,c44,Nordea,c44-main,Personkonto,checking,2026-10-20,-153.90,Kortköp 261019 KRONANS APOTEK BROMMA
+v1171,c44,Nordea,c44-main,Personkonto,checking,2026-10-20,-98.92,Kortköp 261017 WAYNES COFFEE STHLM
+v1172,c44,Nordea,c44-main,Personkonto,checking,2026-10-21,-297.73,Kortköp 261018 PIZZA HUT STHLM
+v1173,c44,Nordea,c44-main,Personkonto,checking,2026-10-23,45600.00,LÖN
+v1174,c44,Nordea,c44-kort,Mastercard,credit_card,2026-10-25,-1108.77,NETONNET STHLM
+v1175,c44,Nordea,c44-kort,Mastercard,credit_card,2026-10-25,-551.53,IKEA STHLM
+v1176,c44,Nordea,c44-kort,Mastercard,credit_card,2026-10-26,-118.29,EASYPARK
+v1177,c44,Nordea,c44-kort,Mastercard,credit_card,2026-10-26,5321.80,INBETALNING TACK
+v1178,c44,Nordea,c44-kort,Mastercard,credit_card,2026-10-27,-133.13,COOP KONSUM SOLNA
+v1179,c44,Nordea,c44-main,Personkonto,checking,2026-10-27,-6220.00,Betalning BG AKELIUS LAGENHETER
+v1180,c44,Nordea,c44-main,Personkonto,checking,2026-10-27,-2560.00,Betalning BG ANYFIN AB
+v1181,c44,Nordea,c44-main,Personkonto,checking,2026-10-27,-2440.00,Autogiro NORDAX BANK AB
+v1182,c44,Nordea,c44-main,Personkonto,checking,2026-10-28,-540.00,Swish betalning HUGO Z
+v1183,c44,Nordea,c44-main,Personkonto,checking,2026-10-31,-82.32,Kortköp 261028 PAYPAL *STEAMGAMES

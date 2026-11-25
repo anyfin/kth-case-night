@@ -1,0 +1,508 @@
+{
+ "c1": {
+  "bank": "Nordea",
+  "rows": 241,
+  "months": [
+   {
+    "month": "2026-05",
+    "byCategory": {
+     "spend.leisure": -827,
+     "spend.shopping": -1237.35,
+     "spend.housing": -8590.33,
+     "spend.groceries": -2986.47,
+     "spend.transport": -1178.9,
+     "spend.dining": -1158.89,
+     "transfer.savings": -3000,
+     "income.employment": 32400,
+     "credit.loan": -2328.02,
+     "transfer.person": 40,
+     "spend.health": -157.17
+    }
+   },
+   {
+    "month": "2026-06",
+    "byCategory": {
+     "spend.leisure": -827,
+     "spend.groceries": -3565.88,
+     "spend.dining": -1436.63,
+     "spend.housing": -8823.44,
+     "spend.transport": -1216.01,
+     "spend.shopping": -1972.84,
+     "transfer.person": -760,
+     "transfer.savings": -3000,
+     "income.employment": 32400,
+     "credit.loan": -1971.35
+    }
+   },
+   {
+    "month": "2026-07",
+    "byCategory": {
+     "spend.leisure": -8419,
+     "spend.groceries": -2178.48,
+     "transfer.person": 300,
+     "spend.transport": -1718.27,
+     "spend.housing": -12582.25,
+     "spend.dining": -1992.64,
+     "income.sales": 2100,
+     "transfer.savings": -3000,
+     "income.employment": 32400,
+     "credit.loan": -2394.12
+    }
+   },
+   {
+    "month": "2026-08",
+    "byCategory": {
+     "spend.leisure": -827,
+     "spend.transport": -1159.6,
+     "spend.shopping": -10307.22,
+     "spend.groceries": -2802.41,
+     "spend.dining": -1311.63,
+     "spend.housing": -12075.17,
+     "transfer.person": 160,
+     "transfer.savings": -3500,
+     "income.employment": 36900,
+     "credit.loan": -2985.2
+    }
+   },
+   {
+    "month": "2026-09",
+    "byCategory": {
+     "spend.leisure": -1208.74,
+     "spend.groceries": -3258.67,
+     "spend.dining": -2995,
+     "spend.transport": -1995.74,
+     "spend.housing": -12073.92,
+     "spend.health": -186.14,
+     "transfer.cash": -1000,
+     "transfer.person": 200,
+     "spend.shopping": -2040.11,
+     "transfer.savings": -3500,
+     "income.employment": 36900,
+     "credit.loan": -3049.76
+    }
+   },
+   {
+    "month": "2026-10",
+    "byCategory": {
+     "spend.leisure": -827,
+     "spend.shopping": -1196.08,
+     "spend.housing": -12073.79,
+     "spend.transport": -1173.9,
+     "spend.dining": -1455.19,
+     "transfer.person": 320,
+     "spend.groceries": -2263.91,
+     "transfer.savings": -3500,
+     "income.employment": 36900,
+     "credit.loan": -2821.47,
+     "spend.health": -167.46,
+     "income.capital": 412.37
+    }
+   }
+  ],
+  "topMerchants": [
+   {
+    "name": "Heimstaden",
+    "total": 33600,
+    "visits": 3
+   },
+   {
+    "name": "Svenska Bostäder",
+    "total": 23550,
+    "visits": 3
+   },
+   {
+    "name": "CSN",
+    "total": 9900,
+    "visits": 6
+   },
+   {
+    "name": "ICA",
+    "total": 6842,
+    "visits": 19
+   },
+   {
+    "name": "SL",
+    "total": 6360,
+    "visits": 6
+   },
+   {
+    "name": "IKEA",
+    "total": 6139,
+    "visits": 2
+   },
+   {
+    "name": "Klarna",
+    "total": 5650,
+    "visits": 6
+   },
+   {
+    "name": "WILLYS",
+    "total": 5534,
+    "visits": 14
+   },
+   {
+    "name": "Booking.com",
+    "total": 4180,
+    "visits": 1
+   },
+   {
+    "name": "Flytthjälpen",
+    "total": 3900,
+    "visits": 1
+   },
+   {
+    "name": "COOP",
+    "total": 3449,
+    "visits": 11
+   },
+   {
+    "name": "SAS",
+    "total": 3412,
+    "visits": 1
+   }
+  ]
+ },
+ "c2": {
+  "bank": "Swedbank",
+  "rows": 257,
+  "months": [
+   {
+    "month": "2026-05",
+    "byCategory": {
+     "spend.gambling": -2350,
+     "spend.groceries": -1641.57,
+     "spend.transport": -3029.42,
+     "spend.dining": -410.41,
+     "transfer.person": 400,
+     "spend.leisure": -395.88,
+     "transfer.cash": -1000,
+     "spend.housing": -8749,
+     "transfer.savings": -2000,
+     "income.employment": 30700,
+     "credit.loan": -6630,
+     "spend.shopping": -2466.36
+    }
+   },
+   {
+    "month": "2026-06",
+    "byCategory": {
+     "spend.groceries": -3792.67,
+     "spend.dining": -1098.38,
+     "spend.shopping": -2139.97,
+     "spend.leisure": -288.29,
+     "spend.gambling": -7505.68,
+     "transfer.person": -400,
+     "transfer.savings": 6500,
+     "spend.transport": -2121.68,
+     "transfer.cash": -1600,
+     "spend.housing": -8749,
+     "income.employment": 35100,
+     "credit.loan": -5940
+    }
+   },
+   {
+    "month": "2026-07",
+    "byCategory": {
+     "spend.gambling": -7437.54,
+     "transfer.savings": 9000,
+     "spend.groceries": -3984.23,
+     "spend.shopping": -2004.73,
+     "spend.leisure": -1003.84,
+     "spend.transport": -1863.27,
+     "spend.dining": -1102.78,
+     "transfer.cash": -1300,
+     "spend.housing": -8749,
+     "income.employment": 34500,
+     "credit.loan": -5940,
+     "credit.collections": -1480,
+     "transfer.person": -1050
+    }
+   },
+   {
+    "month": "2026-08",
+    "byCategory": {
+     "spend.gambling": -7217.71,
+     "spend.groceries": -1997.26,
+     "transfer.cash": -1300,
+     "spend.dining": -1479.66,
+     "transfer.person": 1000,
+     "spend.transport": -1343.49,
+     "spend.shopping": -705.44,
+     "spend.leisure": -109,
+     "spend.housing": -8749,
+     "transfer.savings": 4500,
+     "income.employment": 35950,
+     "credit.loan": -5940,
+     "credit.collections": -1480
+    }
+   },
+   {
+    "month": "2026-09",
+    "byCategory": {
+     "spend.groceries": -4344.34,
+     "spend.dining": -1069.21,
+     "transfer.cash": -2000,
+     "spend.gambling": -2569.3,
+     "spend.leisure": -1185.2,
+     "spend.shopping": -2629.27,
+     "transfer.person": 850,
+     "spend.transport": -1331.27,
+     "spend.housing": -8749,
+     "credit.collections": -2310,
+     "income.employment": 33300,
+     "credit.loan": -5940
+    }
+   },
+   {
+    "month": "2026-10",
+    "byCategory": {
+     "spend.transport": -1691.85,
+     "transfer.cash": -2000,
+     "transfer.person": -800,
+     "spend.groceries": -1954.8,
+     "spend.gambling": -467.75,
+     "spend.dining": -1124.55,
+     "spend.leisure": -440.12,
+     "spend.housing": -8749,
+     "transfer.savings": -1000,
+     "income.employment": 34550,
+     "credit.loan": -5940,
+     "spend.shopping": -1912.21,
+     "credit.collections": -1480
+    }
+   }
+  ],
+  "topMerchants": [
+   {
+    "name": "Bostadsbolaget",
+    "total": 50700,
+    "visits": 6
+   },
+   {
+    "name": "Unibet",
+    "total": 20150,
+    "visits": 20
+   },
+   {
+    "name": "Santander Consumer",
+    "total": 17340,
+    "visits": 6
+   },
+   {
+    "name": "Anyfin",
+    "total": 15250,
+    "visits": 5
+   },
+   {
+    "name": "WILLYS",
+    "total": 6613,
+    "visits": 10
+   },
+   {
+    "name": "HEMKOP",
+    "total": 5062,
+    "visits": 7
+   },
+   {
+    "name": "CIRCLE K GBG",
+    "total": 4866,
+    "visits": 8
+   },
+   {
+    "name": "BAUHAUS",
+    "total": 4592,
+    "visits": 4
+   },
+   {
+    "name": "Intrum",
+    "total": 4440,
+    "visits": 3
+   },
+   {
+    "name": "INGO BACKAPLAN",
+    "total": 4431,
+    "visits": 6
+   },
+   {
+    "name": "Betsson",
+    "total": 4000,
+    "visits": 6
+   },
+   {
+    "name": "BYGGMAX",
+    "total": 3645,
+    "visits": 4
+   }
+  ]
+ },
+ "c3": {
+  "bank": "Handelsbanken",
+  "rows": 198,
+  "months": [
+   {
+    "month": "2026-05",
+    "byCategory": {
+     "spend.transport": -2180.85,
+     "spend.groceries": -7679.75,
+     "spend.housing": -6951.08,
+     "spend.health": -626.18,
+     "spend.dining": -201.88,
+     "income.public": 2650,
+     "transfer.savings": -500,
+     "income.employment": 34800,
+     "credit.loan": -669.41,
+     "transfer.person": 550,
+     "spend.family": -1190
+    }
+   },
+   {
+    "month": "2026-06",
+    "byCategory": {
+     "spend.transport": -1958.65,
+     "spend.housing": -7016.95,
+     "transfer.person": -450,
+     "spend.groceries": -4749.02,
+     "spend.dining": -916.87,
+     "spend.shopping": -897.81,
+     "income.public": 2650,
+     "credit.loan": -1448.61,
+     "transfer.savings": -500,
+     "income.employment": 34800,
+     "spend.family": -1190
+    }
+   },
+   {
+    "month": "2026-07",
+    "byCategory": {
+     "spend.transport": -4024.19,
+     "spend.groceries": -7743.81,
+     "spend.dining": -819.2,
+     "spend.shopping": -1069.89,
+     "spend.housing": -7032.06,
+     "spend.leisure": -3258.9,
+     "income.public": 2650,
+     "transfer.savings": -500,
+     "income.employment": 34800,
+     "credit.loan": -588.89,
+     "spend.family": -1190,
+     "transfer.person": -350,
+     "spend.health": -356.84
+    }
+   },
+   {
+    "month": "2026-08",
+    "byCategory": {
+     "transfer.person": 850,
+     "spend.transport": -1777.12,
+     "spend.housing": -13526.25,
+     "spend.groceries": -7188.89,
+     "spend.shopping": -11502.31,
+     "spend.health": -1642.31,
+     "income.public": 2650,
+     "credit.loan": -1108.39,
+     "spend.dining": -345.62,
+     "transfer.savings": -500,
+     "income.employment": 34800,
+     "spend.family": -1190
+    }
+   },
+   {
+    "month": "2026-09",
+    "byCategory": {
+     "spend.dining": -546.19,
+     "spend.transport": -2125.27,
+     "spend.health": -441.9,
+     "spend.housing": -13308.49,
+     "spend.groceries": -5349.88,
+     "spend.shopping": -448.56,
+     "income.public": 2650,
+     "transfer.person": 950,
+     "transfer.savings": -500,
+     "income.employment": 34800,
+     "credit.loan": -796,
+     "spend.family": -1190
+    }
+   },
+   {
+    "month": "2026-10",
+    "byCategory": {
+     "spend.groceries": -4221.34,
+     "spend.transport": -1853.91,
+     "spend.housing": -13273.74,
+     "spend.health": -134.24,
+     "transfer.person": 400,
+     "spend.dining": -286.74,
+     "income.public": 2650,
+     "transfer.savings": -500,
+     "income.employment": 37240,
+     "credit.loan": -2018.37,
+     "spend.shopping": -877.81,
+     "spend.family": -1190,
+     "income.capital": 96.4
+    }
+   }
+  ],
+  "topMerchants": [
+   {
+    "name": "MKB",
+    "total": 74400,
+    "visits": 6
+   },
+   {
+    "name": "ICA",
+    "total": 8434,
+    "visits": 12
+   },
+   {
+    "name": "WILLYS",
+    "total": 8298,
+    "visits": 8
+   },
+   {
+    "name": "IKEA",
+    "total": 7189,
+    "visits": 2
+   },
+   {
+    "name": "CITY",
+    "total": 7144,
+    "visits": 11
+   },
+   {
+    "name": "Malmö stad",
+    "total": 7140,
+    "visits": 6
+   },
+   {
+    "name": "NETTO",
+    "total": 6234,
+    "visits": 10
+   },
+   {
+    "name": "COOP",
+    "total": 5734,
+    "visits": 7
+   },
+   {
+    "name": "Klarna",
+    "total": 5059,
+    "visits": 6
+   },
+   {
+    "name": "Skånetrafiken",
+    "total": 4770,
+    "visits": 6
+   },
+   {
+    "name": "CIRCLE K MALMÖ",
+    "total": 4585,
+    "visits": 8
+   },
+   {
+    "name": "E.ON",
+    "total": 3635,
+    "visits": 6
+   }
+  ]
+ }
+}
