@@ -255,6 +255,20 @@ test[["id", "category"]].to_csv("predictions.csv", index=False)</pre>
       <p class="note">A wrong label costs you a point and <code>unknown</code> costs nothing. A wrong label can move a credit decision, so we would rather a classifier says it doesn't know than guesses. Missing rows count as <code>unknown</code>.</p>
     </div>
 
+
+    <div class="stack" id="final-box" hidden>
+      <h3>Final set</h3>
+      <p><b>Tonight's board ranks this set.</b> 800 rows from 3 more customers nobody has seen. Run the same code on it, for example <code>python your-code.py final.csv</code>, and send those predictions to <b>kth-ai-case@anyfin.com</b> with your repo link and README.</p>
+      <div class="panel">
+        <div class="panel-head">
+          <span class="note" id="final-msg"></span>
+          <button class="primary" id="copy-final" type="button">Copy final CSV</button>
+        </div>
+        <div style="padding:14px" class="stack">
+          <textarea id="final-fallback" hidden readonly aria-label="Final set CSV"></textarea>
+        </div>
+      </div>
+    </div>
     <div class="stack" id="test">
       <h3>Validation set</h3>
       <p>1,183 rows from 5 customers you haven't seen. Same columns as the training set, without <code>category</code>. Your predictions for these rows rank you tonight.</p>
@@ -615,6 +629,20 @@ document.getElementById("key-copy").addEventListener("click", () => {
   const v = document.getElementById("key-value");
   try { navigator.clipboard.writeText(v.value).then(() => { document.getElementById("key-msg").textContent = "Copied."; }, () => { v.focus(); v.select(); }); }
   catch { v.focus(); v.select(); }
+});
+
+let finalCsv = "";
+fetch("final.csv").then((r) => (r.ok ? r.text() : null)).then((t) => {
+  if (!t) return;
+  finalCsv = t;
+  const rest = parseCsv(t).slice(1);
+  document.getElementById("final-msg").textContent = `${rest.length.toLocaleString("sv-SE")} rows from ${new Set(rest.map((r) => r[1])).size} customers.`;
+  document.getElementById("final-box").hidden = false;
+}).catch(() => {});
+document.getElementById("copy-final").addEventListener("click", () => {
+  const msg = document.getElementById("final-msg");
+  const fallback = () => { const ta = document.getElementById("final-fallback"); ta.value = finalCsv; ta.hidden = false; ta.focus(); ta.select(); msg.textContent = "Your browser blocked copying. The CSV is selected below: press Cmd+C or Ctrl+C."; };
+  try { navigator.clipboard.writeText(finalCsv).then(() => { msg.textContent = "Copied. Paste it into a file called final.csv."; }, fallback); } catch { fallback(); }
 });
 
 function route() {
