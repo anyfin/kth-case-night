@@ -257,7 +257,7 @@ test[["id", "category"]].to_csv("predictions.csv", index=False)</pre>
 
 
     <div class="stack" id="final-box" hidden>
-      <h3>Final set: send predictions for this one</h3>
+      <h3>Final set</h3>
       <p><b>Tonight's board ranks this set.</b> 800 rows from 3 more customers nobody has seen. Run the same code on it, for example <code>python your-code.py final.csv</code>, and send those predictions to <b>kth-ai-case@anyfin.com</b> with your repo link and README.</p>
       <div class="panel">
         <div class="panel-head">
@@ -270,6 +270,7 @@ test[["id", "category"]].to_csv("predictions.csv", index=False)</pre>
       </div>
     </div>
     <div class="stack" id="test">
+      <div hidden>
       <h3>Validation set</h3>
       <p>1,183 rows from 5 customers you haven't seen. Same columns as the training set, without <code>category</code>. Use it to practise. <b>Tonight's board ranks the final set above</b>, so send predictions for that one.</p>
       <div class="panel">
@@ -281,6 +282,7 @@ test[["id", "category"]].to_csv("predictions.csv", index=False)</pre>
           <textarea id="val-fallback" hidden readonly aria-label="Validation set CSV"></textarea>
           <div class="scroll" id="val-preview" style="max-height:300px"></div>
         </div>
+      </div>
       </div>
       <p class="note">When time is up, send an email to <b>kth-ai-case@anyfin.com</b> with your final-set predictions as <code>id,category</code>, named after you (for example <code>ada-lovelace.csv</code>), and a link to a GitHub repo or gist holding the code that made them and a README of up to five lines: your approach, what it would cost at 10 million rows a month, and what you would do with another day. Use Python, TypeScript or anything else that runs with one command, such as <code>python your-code.py validation.csv</code> or <code>npx tsx your-code.ts validation.csv</code>, and tell us the command. Read any API key from an environment variable. Predictions have to come from your code, not from pasting rows into a chat or hard-coding answers for particular rows. Your code stays yours: we only run it to check your result. The top three explain how they did it in the pitches.</p>
       <p class="note">Tonight's board ranks your validation predictions and picks the finalists. Tomorrow we run the top ten's code on the hidden test set with our own key: that decides the winners and measures runtime and cost. Aim for under 10 minutes and under $5 for those 5,517 rows. We label millions of transactions a month, so in the pitches we'll ask what yours would cost at 10 million.</p>
